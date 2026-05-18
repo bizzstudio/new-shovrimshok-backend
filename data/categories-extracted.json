@@ -1,0 +1,44 @@
+[
+  {
+    "id": 126,
+    "name": "חד פעמי וניקיון",
+    "slug": "%d7%97%d7%93-%d7%a4%d7%a2%d7%9e%d7%99-%d7%95%d7%a0%d7%99%d7%a7%d7%99%d7%95%d7%9f",
+    "slugDecoded": "חד-פעמי-וניקיון",
+    "count": 194
+  },
+  {
+    "id": 128,
+    "name": "מאפייה",
+    "slug": "%d7%9e%d7%90%d7%a4%d7%99%d7%99%d7%94",
+    "slugDecoded": "מאפייה",
+    "count": 7
+  },
+  {
+    "id": 20,
+    "name": "מוצרי חלב וביצים",
+    "slug": "dairy-eggs",
+    "slugDecoded": "dairy-eggs",
+    "count": 45
+  },
+  {
+    "id": 18,
+    "name": "פירות וירקות",
+    "slug": "fruits-vegetables",
+    "slugDecoded": "fruits-vegetables",
+    "count": 51
+  },
+  {
+    "id": 21,
+    "name": "קפואים",
+    "slug": "frozen",
+    "slugDecoded": "frozen",
+    "count": 71
+  },
+  {
+    "id": 124,
+    "name": "שימורים בישול ואפיה",
+    "slug": "%d7%a9%d7%99%d7%9e%d7%95%d7%a8%d7%99%d7%9d-%d7%91%d7%99%d7%a9%d7%95%d7%9c-%d7%95%d7%90%d7%a4%d7%99%d7%94",
+    "slugDecoded": "שימורים-בישול-ואפיה",
+    "count": 242
+  }
+]

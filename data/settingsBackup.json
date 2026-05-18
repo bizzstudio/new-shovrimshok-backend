@@ -1,0 +1,1023 @@
+{
+    "navbar": {
+        "categories_menu_status": true,
+        "about_menu_status": true,
+        "contact_menu_status": true,
+        "offers_menu_status": true,
+        "term_and_condition_status": true,
+        "privacy_policy_status": true,
+        "faq_status": true,
+        "help_text": {
+            "en": "We are available 24/7, Need help?",
+            "de": "Wir sind erreichbar 24/7, Brauchen Sie Hilfe?",
+            "he": "אנחנו זמינים עבורכם"
+        },
+        "categories": {
+            "en": "Categories",
+            "de": "Kategorien",
+            "he": "קטגוריות"
+        },
+        "about_us": {
+            "en": "About Us",
+            "de": "Uber Uns",
+            "he": "אודות"
+        },
+        "contact_us": {
+            "en": "Contact Us",
+            "de": "Kontaktiere Uns",
+            "he": "צור קשר"
+        },
+        "offers": {
+            "en": "Offers",
+            "de": "Bietet an",
+            "he": "הצעות"
+        },
+        "faq": {
+            "en": "FAQ",
+            "de": "FAQ",
+            "he": "שאלות נפוצות"
+        },
+        "privacy_policy": {
+            "en": "Privacy Policy",
+            "de": "Datenschutzrichtlinie",
+            "he": "מדיניות הפרטיות"
+        },
+        "term_and_condition": {
+            "en": "Terms & Conditions",
+            "de": "Terms & Bedingungen",
+            "he": "תנאים והגבלות"
+        },
+        "pages": {
+            "en": "Pages",
+            "de": "Seiten",
+            "he": "דפים"
+        },
+        "my_account": {
+            "en": "My Account",
+            "de": "Mein Konto",
+            "he": "החשבון שלי"
+        },
+        "login": {
+            "en": "Login",
+            "de": "Anmeldung",
+            "he": "התחברות"
+        },
+        "logout": {
+            "en": "logout",
+            "de": "Ausloggen",
+            "he": "התנתקות"
+        },
+        "checkout": {
+            "en": "Checkout",
+            "de": "Kasse",
+            "he": "לקנייה"
+        },
+        "phone": "053-377-7427",
+        "logo": "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/c11620cf-73d3-4942-8a06-e6905db4d683_logo-mnm.png"
+    },
+    "home": {
+        "coupon_status": false,
+        "featured_status": false,
+        "daily_needs_status": true,
+        "slider_width_status": false,
+        "promotion_banner_status": false,
+        "delivery_status": false,
+        "popular_products_status": true,
+        "discount_product_status": true,
+        "feature_promo_status": true,
+        "discount_coupon_code": [
+            "WINTER21",
+            "OCTOBER21",
+            "DEC33"
+        ],
+        "place_holder_img": "",
+        "discount_title": {
+            "en": "Latest Super Discount Active Coupon Code",
+            "de": "Neuester aktiver Super-Rabatt-Gutscheincode",
+            "he": "מבצעים אחרונים"
+        },
+        "promotion_title": {
+            "en": "100% Natural Quality Organic Product",
+            "de": "100 % natürliches Bio-Qualitätsprodukt",
+            "he": "100% מוצר אורגני באיכות טבעית"
+        },
+        "promotion_description": {
+            "en": "See Our latest discounted products from here and get a special discount product",
+            "de": "Sehen Sie sich hier unsere neuesten reduzierten Produkte an und sichern Sie sich ein spezielles Rabattprodukt",
+            "he": "ראה את המוצרים המוזלים האחרונים שלנו מכאן וקבל מוצר הנחה מיוחד"
+        },
+        "promotion_button_name": {
+            "en": "Shop Now",
+            "de": "Jetzt einkaufen",
+            "he": "כניסה לחנות"
+        },
+        "promotion_button_link": "search?category=פירות&_id=6666fc1b61eead5864aa27b2",
+        "feature_title": {
+            "en": "Featured Categories",
+            "de": "Beliebte Kategorien",
+            "he": ""
+        },
+        "feature_description": {
+            "en": "Choose your necessary products from this feature categories.",
+            "de": "Wählen Sie aus diesen Funktionskategorien die gewünschten Produkte aus.",
+            "he": ""
+        },
+        "feature_product_limit": "20",
+        "popular_title": {
+            "en": "Popular Products for Daily Shopping",
+            "de": "Beliebte Produkte für den täglichen Einkauf",
+            "he": "המוצרים הפופולריים שלנו"
+        },
+        "popular_description": {
+            "en": "See all our popular products in this week. You can choose your daily needs products from this list and get some special offer with free shipping.",
+            "de": "Sehen Sie sich diese Woche alle unsere beliebten Produkte an. Aus dieser Liste können Sie Produkte für den täglichen Bedarf auswählen und ein Sonderangebot mit kostenlosem Versand erhalten.",
+            "he": "הטעמים שהלקוחות הכי אוהבים – עכשיו במקום אחד"
+        },
+        "popular_product_limit": "18",
+        "quick_delivery_subtitle": {
+            "en": "Organic Products and Food",
+            "de": "Bio-Produkte und Lebensmittel",
+            "he": ""
+        },
+        "quick_delivery_title": {
+            "en": "Quick Delivery to Your Home",
+            "de": "Schnelle Lieferung zu Ihnen nach Hause",
+            "he": "משלוחים - מגיעים באותו היום, אם מזמינים לפני 13:00 (בשישי עד השעה 10:00!)"
+        },
+        "quick_delivery_description": {
+            "en": "There are many products you will find in our shop, Choose your daily necessary product from our KachaBazar shop and get some special offers. See Our latest discounted products from here and get a special discount.",
+            "de": "Es gibt viele Produkte, die Sie in unserem Shop finden. Wählen Sie Ihr täglich benötigtes Produkt aus unserem KachaBazar-Shop und erhalten Sie einige Sonderangebote. Sehen Sie sich hier unsere neuesten reduzierten Produkte an und sichern Sie sich einen Sonderrabatt.",
+            "he": ""
+        },
+        "quick_delivery_button": {
+            "en": "Download App",
+            "de": "Lade App herunter",
+            "he": "לאיזור אישי"
+        },
+        "quick_delivery_link": "/user/update-profile",
+        "quick_delivery_img": "https://res.cloudinary.com/ahossain/image/upload/v1697688032/settings/delivery-boy_rluuoq.webp",
+        "latest_discount_title": {
+            "en": "New products",
+            "de": "Neue Produkte",
+            "he": "מוצרים חדשים"
+        },
+        "latest_discount_description": {
+            "en": "New products in our catalog.",
+            "de": "Neue Produkte in unserem Katalog.",
+            "he": "מוצרים חדשים במערכת — עדכונים שוטפים למלאי."
+        },
+        "latest_discount_product_limit": "18",
+        "daily_need_title": {
+            "en": "Get Your Daily Needs From Our KachaBazar Store",
+            "de": "Holen Sie sich Ihren täglichen Bedarf in Ihrem CloudCleaver-Shop",
+            "he": ""
+        },
+        "daily_need_description": {
+            "en": "There are many products you will find in our shop, Choose your daily necessary product from our KachaBazar shop and get some special offers.",
+            "de": "Es gibt viele Produkte, die Sie in unserem Shop finden. Wählen Sie Ihr täglich benötigtes Produkt aus unserem KachaBazar-Shop und erhalten Sie einige Sonderangebote.",
+            "he": ""
+        },
+        "daily_need_app_link": "#",
+        "daily_need_google_link": "#",
+        "daily_need_img_left": "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/e25b1cda-d0eb-4198-8ca8-314a1e645011_date fruit image.svg",
+        "daily_need_img_right": "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/ada18b37-5812-45f4-b428-6849da0e1cb2_date fruit image 2.svg",
+        "button1_img": "",
+        "button2_img": "",
+        "discount_status": true,
+        "logos_carousel": [
+            "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/055df385-9136-4a8a-800f-563560bb6366_site-header.png",
+            "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/d2b5fd82-8154-44fd-91e4-ec832cc7f001_logo-achva1.png",
+            "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/e3698e1d-993a-40dc-a217-b0e2e5420125_EliteNewLogo.png",
+            "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/1fa6df51-ab21-40d6-922b-67fff254ca90_channels4_profile.jpg",
+            "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/4f33d01d-76ec-4858-8660-18450039a345_Sugat.svg.png",
+            "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/48fa3eda-7568-4907-a880-4af82988a4bd_Ben_&_Jerry's.svg.png",
+            "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/ffcc365e-739e-4182-a018-2b9559bbb740_TaraLogo2023.png",
+            "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/66f13249-52e2-4ba4-82fc-5a5691f0cb43_StraussNewLogo.svg.png",
+            "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/253e3ea2-3518-4461-8489-8e4ceadb927a_Yad_Mordechai_logo.jpg",
+            "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/51b9b45a-22be-4782-9910-ba7ca28e1eee_Osem_Logo.png",
+            "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/6ac93dac-d2d2-441b-9e07-1b544e12501c_פרימור.png",
+            "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/0c7deb9b-2af7-4118-971f-f5ecdb251ec4_צבר.png",
+            "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/d1e98cb1-82af-4a15-ad9c-d5c18fbf317f_Yotvata_logo-836x1024.png"
+        ],
+        "logos_carousel_status": true,
+        "small_banner_link": ""
+    },
+    "about_us": {
+        "header_status": true,
+        "content_left_status": true,
+        "content_right_status": true,
+        "content_middle_status": true,
+        "founder_status": false,
+        "header_bg": "https://bizzstudio.s3.eu-north-1.amazonaws.com/aboutUs/fa31e0ad-8e19-4ad6-af01-658a30f02a1a_צילום מסך 2025-12-16 070430.png",
+        "content_right_img": "https://bizzstudio.s3.eu-north-1.amazonaws.com/aboutUs/a4de804c-47a2-4aea-a975-6d14f002f011_WhatsApp-Image-2021-04-28-at-08.58.30.jpeg",
+        "content_middle_Img": "https://bizzstudio.s3.eu-north-1.amazonaws.com/aboutUs/6d82bd9a-de5d-45a5-b06f-c51cf5dedea4_73230.jpg",
+        "founder_one_img": "",
+        "founder_two_img": "",
+        "founder_three_img": "",
+        "founder_four_img": "",
+        "founder_five_img": "",
+        "founder_six_img": "",
+        "title": {
+            "en": "About Us",
+            "de": "Über uns",
+            "he": "אודות החברה"
+        },
+        "top_title": {
+            "en": "Welcome to our KachaBazar shop",
+            "de": "Willkommen in unserem KachaBazar-Shop",
+            "he": "MNM"
+        },
+        "top_description": {
+            "en": "Holisticly seize parallel metrics and functional ROI.Seamlessly revolutionize error-free internal or organic sources before effective scenarios. Progressively incentivize state of the art applications for efficient intellectual capital. Credibly leverage existing distinctive mindshare through cutting-edge schemas. Proactively procrastinate team building paradigms coordinate client-centric total transparent internal.\n\nDynamically embrace diverse customer service and installed base paradigms. Credibly seize enterprise-wide experiences for end-to-end data. Professionally brand flexible alignments and cost effective architectures. Enthusiastically incentivize seamless communities with seamlessly facilitate revolutionary metrics with strategic theme areas.",
+            "de": "Erfassen Sie parallele Metriken und funktionalen ROI ganzheitlich. Revolutionieren Sie nahtlos fehlerfreie interne oder organische Quellen vor effektiven Szenarien. Fördern Sie nach und nach hochmoderne Anwendungen für effizientes intellektuelles Kapital. Nutzen Sie glaubwürdig vorhandenes unverwechselbares Mindshare durch hochmoderne Schemata. Teambuilding-Paradigmen proaktiv aufschieben koordinieren kundenzentriert total transparent intern. Umfassen Sie dynamisch unterschiedliche Kundendienst- und Installed-Base-Paradigmen. Nutzen Sie glaubwürdig unternehmensweite Erfahrungen für End-to-End-Daten. Professionelles Branding flexibler Ausrichtungen und kostengünstiger Architekturen. Schaffen Sie enthusiastische Anreize für nahtlose Gemeinschaften, indem Sie revolutionäre Metriken mit strategischen Themenbereichen nahtlos erleichtern.",
+            "he": "אנו החברה המובילה בתחום השיווק והפצה של סל המוצרים המלא למוסדות. אנו כאן כדי להקל עליכם בניהול הצרכים היומיומיים שלכם, ומציעים פתרון מקיף המשלב מוצרי חלב, ירקנייה, מאפים, קפואים, חד פעמי חומרי ניקיון ועוד – והכל במחירים מוזלים,\nבחשבונית אחת ובמשלוח אחד נוח ומהיר."
+        },
+        "card_one_title": {
+            "en": "10K",
+            "de": "10K",
+            "he": "אנו כאן כדי להקל עליכם בניהול הצרכים היומיומיים שלכם"
+        },
+        "card_one_sub": {
+            "en": "Listed Products",
+            "de": "Gelistete Produkte",
+            "he": ""
+        },
+        "card_one_description": {
+            "en": "Dynamically morph team driven partnerships after vertical",
+            "de": "Verwandeln Sie teamorientierte Partnerschaften dynamisch nach der Vertikalen",
+            "he": "אנו מאמינים שכל מוסד ראוי לצמוח ולשגשג באמצעות ניהול כלכלי מיטבי."
+        },
+        "card_two_title": {
+            "en": "8K",
+            "de": "8 TAUSEND",
+            "he": "מציעים פתרון מקיף המשלב מוצרי חלב, ירקנייה, מאפים, קפואים, חד פעמי חומרי ניקיון "
+        },
+        "card_two_sub": {
+            "en": "Lovely Customer",
+            "de": "Lieber Kunde",
+            "he": ""
+        },
+        "card_two_description": {
+            "en": "Competently productize virtual models without performance.",
+            "de": "Virtuelle Modelle ohne Performance kompetent produzieren.",
+            "he": "חזוננו הוא להעניק למנהלי המוסדות את הכלים המתקדמים ביותר לקבלת החלטות רכש מושכלות, תוך שילוב ייחודי של טכנולוגיה חדשנית וליווי מקצועי אישי."
+        },
+        "middle_description_one": {
+            "en": "Holisticly seize parallel metrics and functional ROI. Seamlessly revolutionize error-free internal or organic sources before effective scenarios. Progressively incentivize state of the art applications for efficient intellectual capital. Credibly leverage existing distinctive mindshare through cutting-edge schemas. Proactively procrastinate team building paradigms coordinate client-centric total transparent internal. Energistically reconceptualize global leadership for high-quality networks. Credibly restore an expanded array of systems rather than accurate results. Collaboratively synergize backend bandwidth without 24/7 functionalities. Credibly utilize proactive ideas whereas cross-media core competencies. Uniquely maximize professional best practices through resource maximizing services. Conveniently architect cross-unit web services for e-business imperatives.",
+            "de": "Erfassen Sie parallele Metriken und funktionalen ROI ganzheitlich. Revolutionieren Sie nahtlos fehlerfreie interne oder organische Quellen vor effektiven Szenarien. Fördern Sie nach und nach hochmoderne Anwendungen für effizientes intellektuelles Kapital. Nutzen Sie glaubwürdig vorhandenes unverwechselbares Mindshare durch hochmoderne Schemata. Teambuilding-Paradigmen proaktiv aufschieben koordinieren kundenzentriert total transparent intern. Globale Führung für qualitativ hochwertige Netzwerke energisch neu konzipieren. Stellen Sie statt genauer Ergebnisse eine größere Anzahl von Systemen glaubwürdig wieder her. Synergisieren Sie gemeinsam Backend-Bandbreite ohne 24/7-Funktionalitäten. Proaktive Ideen glaubhaft nutzen und crossmediale Kernkompetenzen nutzen. Maximieren Sie auf einzigartige Weise professionelle Best Practices durch ressourcenoptimierende Services. Entwickeln Sie bequem bereichsübergreifende Webservices für E-Business-Anforderungen.",
+            "he": ""
+        },
+        "middle_description_two": {
+            "en": "Appropriately visualize market-driven data before one-to-one scenarios. Collaboratively productize multifunctional ROI through intuitive supply chains. Enthusiastically seize revolutionary value and process-centric services. Competently harness intuitive information after interoperable markets. Interactively revolutionize future-proof value before granular sources. Dynamically embrace diverse customer service and installed base paradigms. Credibly seize enterprise-wide experiences for end-to-end data. Professionally brand flexible alignments and cost effective architectures. Enthusiastically incentivize seamless communities with seamlessly facilitate revolutionary metrics with strategic theme areas.",
+            "de": "Visualisieren Sie marktgesteuerte Daten angemessen vor Eins-zu-eins-Szenarien. Erzielen Sie gemeinsam multifunktionale Renditen durch intuitive Lieferketten. Nutzen Sie mit Begeisterung revolutionäre Mehrwert- und prozessorientierte Services. Nutzen Sie intuitive Informationen kompetent nach interoperablen Märkten. Revolutionieren Sie interaktiv zukunftssichere Werte vor granularen Quellen. Umfassen Sie dynamisch unterschiedliche Kundendienst- und Installed-Base-Paradigmen. Nutzen Sie glaubwürdig unternehmensweite Erfahrungen für End-to-End-Daten. Professionelles Branding flexibler Ausrichtungen und kostengünstiger Architekturen. Schaffen Sie enthusiastische Anreize für nahtlose Gemeinschaften, indem Sie revolutionäre Metriken mit strategischen Themenbereichen nahtlos erleichtern.",
+            "he": ""
+        },
+        "founder_title": {
+            "en": "Our Team",
+            "de": "Unser Gründer",
+            "he": ""
+        },
+        "founder_description": {
+            "en": "We’re impartial and independent, and every day we create distinctive, world-class reintermediate backend supply programmes.",
+            "de": "Wir sind unparteiisch und unabhängig und erstellen jeden Tag unverwechselbare, erstklassige Reintermediate-Backend-Lieferprogramme.",
+            "he": ""
+        },
+        "founder_one_name": {
+            "en": "Niamh Shea",
+            "de": "Niamh Shea ",
+            "he": ""
+        },
+        "founder_one_sub": {
+            "en": "Co-founder & Executive",
+            "de": "Co-founder & Executive",
+            "he": ""
+        },
+        "founder_two_name": {
+            "en": "Orla Dwyer",
+            "de": "Orla Dwyer ",
+            "he": ""
+        },
+        "founder_two_sub": {
+            "en": "Orla Dwyer",
+            "de": "Orla Dwyer ",
+            "he": ""
+        },
+        "founder_three_name": {
+            "en": "Danien James",
+            "de": "Danien James ",
+            "he": ""
+        },
+        "founder_three_sub": {
+            "en": "Co-founder, Chairman",
+            "de": "Co-founder, Chairman",
+            "he": ""
+        },
+        "founder_four_name": {
+            "en": "Dara Frazier",
+            "de": "Dara Frazier ",
+            "he": ""
+        },
+        "founder_four_sub": {
+            "en": "Chief Strategy Officer",
+            "de": "Chief Strategy Officer",
+            "he": ""
+        },
+        "founder_five_name": {
+            "en": "Glenda Arvidson",
+            "de": "Glenda Arvidson",
+            "he": ""
+        },
+        "founder_five_sub": {
+            "en": "HR Officer",
+            "de": " HR Officer",
+            "he": ""
+        },
+        "founder_six_name": {
+            "en": "Melvin Davis ",
+            "de": "Melvin Davis ",
+            "he": ""
+        },
+        "founder_six_sub": {
+            "en": "Lead Developer",
+            "de": "Lead Developer",
+            "he": ""
+        }
+    },
+    "contact_us": {
+        "header_status": true,
+        "email_box_status": true,
+        "call_box_status": true,
+        "address_box_status": true,
+        "left_col_status": true,
+        "form_status": true,
+        "header_bg": "https://bizzstudio.s3.eu-north-1.amazonaws.com/contactUs/561a938a-6670-430e-9e82-a7b021dbfdef_glass-bowl-full-pitted-dates-placed-stone-table1.jpg",
+        "left_col_img": "https://bizzstudio.s3.eu-north-1.amazonaws.com/contactUs/18bb7041-4dc9-4c65-b0c4-310994c1421b_date fruit image.svg",
+        "title": {
+            "en": "Contact Us",
+            "de": "Kontaktiere uns",
+            "he": "צרו קשר"
+        },
+        "email_box_title": {
+            "en": "Email Us",
+            "de": "Schreiben Sie uns eine E-Mail",
+            "he": "דואר אלקטרוני"
+        },
+        "email_box_email": {
+            "en": "info@kachabazar.com ",
+            "de": "info@kachabazar.com",
+            "he": "MNMLTD117@gmail.com"
+        },
+        "email_box_text": {
+            "en": "Interactively grow empowered for process-centric total linkage. ",
+            "de": " Interactively grow empowered for process-centric total linkage.",
+            "he": ""
+        },
+        "call_box_title": {
+            "en": "Call Us ",
+            "de": "Rufen Sie uns an",
+            "he": "טלפון"
+        },
+        "call_box_phone": {
+            "en": "029-00124667",
+            "de": "029-00124667",
+            "he": "053-377-7427"
+        },
+        "call_box_text": {
+            "en": "Distinctively disseminate focused solutions clicks-and-mortar ministate. ",
+            "de": "Distinctively disseminate focused solutions clicks-and-mortar ministate.",
+            "he": ""
+        },
+        "address_box_title": {
+            "en": "Location ",
+            "de": "Ort",
+            "he": "כתובתינו"
+        },
+        "address_box_address_one": {
+            "en": "Boho One, Bridge Street West, Middlesbrough, North Yorkshire, TS2 1AE.",
+            "de": "Cecilia Chapman",
+            "he": "רחוב החשמל 1, א.ת. בית שאן"
+        },
+        "address_box_address_two": {
+            "en": "561-4535 Nulla LA ",
+            "de": "561-4535 Nulla LA",
+            "he": ""
+        },
+        "address_box_address_three": {
+            "en": "United States 96522. ",
+            "de": "United States 96522",
+            "he": ""
+        },
+        "form_title": {
+            "en": "For any suppoort just send your query ",
+            "de": "Für Unterstützung senden Sie einfach Ihre Anfrage",
+            "he": "נתקלתם בבעיה? יש לכם שאלה? חוות דעת? נשמח לשמוע!"
+        },
+        "form_description": {
+            "en": "Collaboratively promote client-focused convergence vis-a-vis customer-directed alignments via plagiarized strategic users and standardized infrastructures. ",
+            "de": "Fördern Sie gemeinsam die kundenorientierte Konvergenz gegenüber kundenorientierten Ausrichtungen durch Plagiate strategischer Benutzer und standardisierter Infrastrukturen.",
+            "he": "אם אנחנו לא עונים מיד סימן שאנחנו עסוקים ונחזור אליכם בהקדם האפשרי."
+        }
+    },
+    "offers": {
+        "header_status": true,
+        "header_bg": "",
+        "title": {
+            "en": "Mega Offer",
+            "de": "Mega Angebot",
+            "he": ""
+        },
+        "coupon_code": []
+    },
+    "privacy_policy": {
+        "status": true,
+        "header_bg": "https://bizzstudio.s3.eu-north-1.amazonaws.com/privacyPolicy/074e6f25-ccce-4b9b-8eb0-9ddc069c29f2_glass-bowl-full-pitted-dates-placed-stone-table1.jpg",
+        "title": {
+            "en": "Privacy Policy",
+            "de": "Datenschutz-Bestimmungen",
+            "he": ""
+        },
+        "description": {
+            "en": "<p></p>\n",
+            "he": "<p class=\"ql-direction-rtl ql-align-right\">בתקנון&nbsp;זה&nbsp;מפורט&nbsp;אופן&nbsp;שיתוף&nbsp;הפעולה&nbsp;בינך&nbsp;לבין&nbsp;משה&nbsp;נהוראי&nbsp;מרקטינג:&nbsp;ח.פ&nbsp;516876117</p><p class=\"ql-direction-rtl ql-align-right\">להלן&nbsp;החברה&nbsp;חובה&nbsp;לקרוא&nbsp;אותו&nbsp;בשלמותו,&nbsp;ובעיון&nbsp;רב&quot;</p><p class=\"ql-direction-rtl ql-align-right\">&quot;MNM&nbsp;הוא&nbsp;אתר&nbsp;מקוון&nbsp;של&nbsp;החברה&quot;</p><p class=\"ql-direction-rtl ql-align-right\">להלן:&nbsp;&quot;האתר&quot;,&nbsp;אשר&nbsp;משווק&nbsp;מוצרי&nbsp;מזון&nbsp;וצריכה&nbsp;,&nbsp;למוסדות&nbsp;לימוד,&nbsp;ולקוחות&nbsp;פרטיים</p><p class=\"ql-direction-rtl ql-align-right\">מותר&nbsp;לבצע&nbsp;רכישה&nbsp;באתר&nbsp;זה&nbsp;אך&nbsp;ורק&nbsp;ללקוחות&nbsp;מגיל&nbsp;18&nbsp;ומעלה.</p><p class=\"ql-direction-rtl ql-align-right\">משרדי&nbsp;החברה&nbsp;ממוקמים&nbsp;ברח&#39;&nbsp;&nbsp;אבני&nbsp;החושן&nbsp;80&nbsp;ירושלים.</p><p class=\"ql-direction-rtl ql-align-right\">התמונות&nbsp;באתר&nbsp;מובאות&nbsp;להמחשה&nbsp;בלבד&nbsp;ואינן&nbsp;מחייבות&nbsp;את&nbsp;החברה&nbsp;באספקת&nbsp;מוצר&nbsp;זהה&nbsp;למופיע&nbsp;באתר.</p><p class=\"ql-direction-rtl ql-align-right\"><strong>אחריות&nbsp;מוצר</strong></p><p class=\"ql-direction-rtl ql-align-right\">על&nbsp;רוב&nbsp;המוצרים&nbsp;הנמכרים&nbsp;באתר&nbsp;ישנה&nbsp;אחריות&nbsp;מלאה.&nbsp;מוצרים&nbsp;שבאחריות&nbsp;–&nbsp;האחריות&nbsp;הינה&nbsp;מטעם&nbsp;היצרן&nbsp;ו/או&nbsp;היבואן&nbsp;בלבד&nbsp;וע&quot;פ&nbsp;שיקול&nbsp;דעתנו&nbsp;הבלעדי!</p><p class=\"ql-direction-rtl ql-align-right\">כל&nbsp;תלונה&nbsp;בקשר&nbsp;למוצר&nbsp;ניתן&nbsp;להפנות&nbsp;ישירות&nbsp;ליצרן&nbsp;ו/או&nbsp;ליבואן.&nbsp;נודה&nbsp;לכם&nbsp;אם&nbsp;בנוסף&nbsp;גם&nbsp;תודיעו&nbsp;לנו,&nbsp;על&nbsp;מנת&nbsp;שנוכל&nbsp;לשפר&nbsp;ולהשתפר&nbsp;שדבר&nbsp;זה&nbsp;לא&nbsp;ישנה.&nbsp;החברה&nbsp;תעשה&nbsp;את&nbsp;המיטב&nbsp;להקל&nbsp;ולזרז&nbsp;את&nbsp;החלפת&nbsp;המוצר&nbsp;שבאחריות&nbsp;וזאת&nbsp;בצורה&nbsp;המהירה&nbsp;והטובה&nbsp;ביותר.&nbsp;אם&nbsp;מסיבה&nbsp;כלשהי&nbsp;ברצונך&nbsp;להחזיר&nbsp;את&nbsp;המוצר&nbsp;שרכשת,&nbsp;עליך&nbsp;לדאוג&nbsp;להעבירו&nbsp;אלינו&nbsp;ואנו&nbsp;נחליפו&nbsp;במהירות&nbsp;האפשרית&nbsp;במוצר&nbsp;אחר&nbsp;במקומו&nbsp;לפי&nbsp;בקשתך.</p><p class=\"ql-direction-rtl ql-align-right\">החזרת&nbsp;מוצרים&nbsp;אפשרית&nbsp;רק&nbsp;באריזתם&nbsp;המקורית&nbsp;וכשהם&nbsp;לא&nbsp;נפתחו.&nbsp;אין&nbsp;להחזיר&nbsp;מוצר&nbsp;שנעשה&nbsp;בו&nbsp;שימוש.&nbsp;על&nbsp;המוצר&nbsp;להגיע&nbsp;למשרדי&nbsp;החברה&nbsp;לא&nbsp;יאוחר&nbsp;מ-&nbsp;21&nbsp;ימים&nbsp;מיום&nbsp;מקבלת&nbsp;המוצר</p><p class=\"ql-direction-rtl ql-align-right\">החזרת&nbsp;מוצרים&nbsp;לאחר&nbsp;21&nbsp;ימים&nbsp;מיום&nbsp;קבלת&nbsp;המוצר&nbsp;או&nbsp;לאחר&nbsp;שנעשה&nbsp;בהם&nbsp;שימוש,&nbsp;החברה&nbsp;תזכה&nbsp;את&nbsp;הלקוח/ה&nbsp;לפי&nbsp;שיקול&nbsp;דעתה&nbsp;הבלעדי&nbsp;אם&nbsp;בכלל.</p><p class=\"ql-direction-rtl ql-align-right\">לתשומת&nbsp;ליבכם&nbsp;אין&nbsp;החזרות&nbsp;על&nbsp;מוצרים&nbsp;שבמבצעים.</p><p class=\"ql-direction-rtl ql-align-right\">חוק&nbsp;הגנת&nbsp;הצרכן&nbsp;קובע&nbsp;כי&nbsp;במידה&nbsp;ובחרת&nbsp;לבטל&nbsp;את&nbsp;העסקה&nbsp;רשאית&nbsp;החברה&nbsp;לגבות&nbsp;ממך&nbsp;דמי&nbsp;ביטול</p><p class=\"ql-direction-rtl ql-align-right\">בשיעור&nbsp;של&nbsp;עד&nbsp;%5&nbsp;ממחיר&nbsp;המוצר&nbsp;אותו&nbsp;רכשת&nbsp;או&nbsp;100&nbsp;שקלים&nbsp;חדשים&nbsp;הנמוך&nbsp;מבניהם.</p><p class=\"ql-direction-rtl ql-align-right\">אם&nbsp;ברצונך&nbsp;לבטל&nbsp;את&nbsp;העסקה&nbsp;תחויבו&nbsp;בדמי&nbsp;ביטול.&nbsp;כאמור&nbsp;אם&nbsp;המוצר&nbsp;כבר&nbsp;סופק&nbsp;וברצונך&nbsp;לבטל&nbsp;את&nbsp;העסקה&nbsp;תחויבו&nbsp;גם&nbsp;בעלות&nbsp;דמי&nbsp;המשלוח.&nbsp;וכמובן&nbsp;גם&nbsp;שעליך&nbsp;לדאוג&nbsp;להחזיר&nbsp;אלינו&nbsp;את&nbsp;המוצר&nbsp;בשלמותו&nbsp;כאמור.</p><p class=\"ql-direction-rtl ql-align-right\">במוצר&nbsp;שהוזמן/יוצר/סופק/הותקן&nbsp;במיוחד&nbsp;ללקוח/ה&nbsp;–&nbsp;חוק&nbsp;זה&nbsp;אינו&nbsp;חל.&nbsp;ואין&nbsp;אפשרות&nbsp;לבטל&nbsp;את&nbsp;העסקה&nbsp;או&nbsp;להחזיר&nbsp;את&nbsp;המוצר.</p><p class=\"ql-direction-rtl ql-align-right\">החזרת&nbsp;מוצרים&nbsp;שהוזמנו&nbsp;בתשלום&nbsp;של&nbsp;150&nbsp;ש&quot;ח</p><p class=\"ql-direction-rtl ql-align-right\">החזרת&nbsp;מוצרים&nbsp;שלא&nbsp;הוזמנו&nbsp;ללא&nbsp;תשלום</p><p class=\"ql-direction-rtl ql-align-right\">החזרת&nbsp;מוצרים&nbsp;פגומים&nbsp;ללא&nbsp;תשלום&nbsp;ואספקת&nbsp;חליפי&nbsp;במקרה&nbsp;הצורך</p><p class=\"ql-direction-rtl ql-align-right\">אחריות&nbsp;מלאה&nbsp;על&nbsp;מוצר&nbsp;שהגיע&nbsp;פגום</p><p class=\"ql-direction-rtl ql-align-right\">ואספקה&nbsp;חליפית&nbsp;במקרה&nbsp;הצורך&nbsp;או&nbsp;לפי&nbsp;ראות&nbsp;הספק</p><p class=\"ql-direction-rtl ql-align-right\"><strong>שונות</strong></p><p class=\"ql-direction-rtl ql-align-right\">אין&nbsp;כפל&nbsp;מבצעים,&nbsp;אלא&nbsp;אם&nbsp;צוין&nbsp;אחרת.</p><p class=\"ql-direction-rtl ql-align-right\">מוצר&nbsp;שמחירו&nbsp;0&nbsp;זה&nbsp;טעות&nbsp;–&nbsp;צרו&nbsp;קשר&nbsp;לקבלת&nbsp;מחיר.</p><p class=\"ql-direction-rtl ql-align-right\">החברה&nbsp;רשאית&nbsp;לשנות&nbsp;ולעדכן&nbsp;את&nbsp;מחירי&nbsp;המוצרים&nbsp;המצוינים&nbsp;באתר&nbsp;ואת&nbsp;דמי&nbsp;הטיפול&nbsp;והמשלוח&nbsp;ובלבד&nbsp;שהלקוח&nbsp;יחויב&nbsp;עפ&quot;י&nbsp;המחירים&nbsp;והתנאים&nbsp;המופיעים&nbsp;באתר&nbsp;בעת&nbsp;הרכישה.</p><p class=\"ql-direction-rtl ql-align-right\">החברה&nbsp;רשאית&nbsp;לבטל&nbsp;רכישה&nbsp;של&nbsp;מוצרים&nbsp;אשר&nbsp;במחיריהם&nbsp;כפי&nbsp;שמצוין&nbsp;באתר&nbsp;נפלה&nbsp;טעות&nbsp;והם&nbsp;אינם&nbsp;משקפים&nbsp;את&nbsp;ערך&nbsp;השוק&nbsp;של&nbsp;המוצר.</p><p class=\"ql-direction-rtl ql-align-right\">כל&nbsp;המוצרים&nbsp;באתר&nbsp;אינם&nbsp;כוללים&nbsp;מע&quot;מ,&nbsp;אלא&nbsp;אם&nbsp;כן&nbsp;צוין&nbsp;אחרת</p><p class=\"ql-direction-rtl ql-align-right\">הכנסת&nbsp;פרטים&nbsp;אישיים&nbsp;למאגר&nbsp;לקוחותינו&nbsp;הרחב.</p><p class=\"ql-direction-rtl ql-align-right\">הנכם&nbsp;מסכימים&nbsp;לקבל&nbsp;מידי&nbsp;פעם&nbsp;עדכונים&nbsp;על&nbsp;מבצעים&nbsp;ושינויים&nbsp;בחברה&nbsp;באמצעות&nbsp;דוא&quot;ל&nbsp;ו/או&nbsp;SMS&nbsp;במידה&nbsp;ואינכם&nbsp;מעוניינים&nbsp;לקבל&nbsp;הודעות&nbsp;תוכלו&nbsp;לבקש&nbsp;להסיר&nbsp;אתכם&nbsp;מרשימת&nbsp;התפוצה&nbsp;של&nbsp;החברה&nbsp;לאלתר.&nbsp;החברה&nbsp;מתחייבת&nbsp;שלא&nbsp;להעביר&nbsp;את&nbsp;פרטי&nbsp;האשראי&nbsp;שלך&nbsp;לצד&nbsp;ג&#39;,&nbsp;למעט&nbsp;לחברות&nbsp;הסליקה&nbsp;והאשראי.</p><p class=\"ql-direction-rtl ql-align-right\"><strong>זכות&nbsp;הקניין&nbsp;הרוחני</strong></p><p class=\"ql-direction-rtl ql-align-right\">אין&nbsp;להעתיק,&nbsp;לשכפל,&nbsp;למכור,&nbsp;ולתרגם&nbsp;נתונים&nbsp;או&nbsp;מידע&nbsp;כלשהו&nbsp;מן&nbsp;האתר&nbsp;מבלי&nbsp;לקבל&nbsp;את&nbsp;רשותה&nbsp;המפורשת&nbsp;של&nbsp;החברה.&nbsp;מראש&nbsp;ובכתב&nbsp;כמו&nbsp;כן&nbsp;אסור&nbsp;בהחלט&nbsp;לעשות&nbsp;כל&nbsp;שימוש&nbsp;מסחרי&nbsp;בנתונים&nbsp;המתפרסמים&nbsp;באתר,&nbsp;בבסיס&nbsp;הנתונים,&nbsp;ברשימות&nbsp;המוצרים&nbsp;המופיעים&nbsp;בו,&nbsp;או&nbsp;בפרטים&nbsp;אחרים&nbsp;המתפרסמים&nbsp;באתר&nbsp;בלא&nbsp;קבלת&nbsp;הסכמתה&nbsp;של&nbsp;החברה&nbsp;מראש&nbsp;ובכתב.</p><p class=\"ql-direction-rtl ql-align-right\">זכויות&nbsp;הקניין&nbsp;הרוחני&nbsp;באתר,&nbsp;לרבות&nbsp;זכויות&nbsp;היוצרים,&nbsp;השיטות,&nbsp;הסימנים&nbsp;המסחריים</p><p class=\"ql-direction-rtl ql-align-right\">והסודות&nbsp;המסחריים,&nbsp;הינם&nbsp;רכושה&nbsp;של&nbsp;החברה&nbsp;בלבד.</p><p class=\"ql-direction-rtl ql-align-right\">זכויות&nbsp;אלה&nbsp;חלות,&nbsp;בין&nbsp;היתר,&nbsp;על&nbsp;עיצובו&nbsp;הגרפי&nbsp;של&nbsp;האתר,&nbsp;בסיסי&nbsp;הנתונים&nbsp;בו,&nbsp;תמונות&nbsp;וסרטונים&nbsp;וכל&nbsp;פרט&nbsp;אחר&nbsp;הנוגע&nbsp;לאתר.</p><p class=\"ql-direction-rtl ql-align-right\"><strong>טעות&nbsp;לעולם&nbsp;חוזרת</strong></p><p class=\"ql-direction-rtl ql-align-right\">מאחורי&nbsp;האתר&nbsp;עומד&nbsp;צוות&nbsp;עובדים&nbsp;שעושה&nbsp;את&nbsp;המירב&nbsp;לתת&nbsp;שירות&nbsp;מקצועי&nbsp;ומהיר.</p><p class=\"ql-direction-rtl ql-align-right\">בכל&nbsp;מקרה&nbsp;של&nbsp;טעות&nbsp;במחיר&nbsp;או&nbsp;במוצר,&nbsp;העמדה&nbsp;הקובעת&nbsp;תהיה&nbsp;של&nbsp;החברה&nbsp;בלבד.</p><p class=\"ql-direction-rtl ql-align-right\">הזכות&nbsp;לדון&nbsp;בכל&nbsp;מחלוקת&nbsp;הנוגעת&nbsp;לרכישת&nbsp;מוצרים&nbsp;באתר&nbsp;ניתנת&nbsp;רק&nbsp;לבית&nbsp;המשפט&nbsp;המוסמך&nbsp;בעיר&nbsp;ירושלים&nbsp;עיה&quot;ק</p><p class=\"ql-direction-rtl ql-align-right\">תקנון&nbsp;זה&nbsp;ניתן&nbsp;לשינוי&nbsp;בכל&nbsp;עת&nbsp;וללא&nbsp;הודעה&nbsp;מוקדמת&nbsp;עפ&quot;י&nbsp;שינוי&nbsp;דעתה&nbsp;של&nbsp;החברה.</p><p class=\"ql-direction-rtl ql-align-right\">כל&nbsp;הרשום&nbsp;להלן&nbsp;בלשון&nbsp;זכר&nbsp;מתייחס&nbsp;גם&nbsp;ללשון&nbsp;נקבה!</p><p class=\"ql-direction-rtl ql-align-right\">קנייה&nbsp;מהנה&nbsp;</p>"
+        }
+    },
+    "term_and_condition": {
+        "status": true,
+        "header_bg": "https://bizzstudio.s3.eu-north-1.amazonaws.com/termsConditions/a5a7dd4a-dadf-4551-8a0b-19096844cf10_glass-bowl-full-pitted-dates-placed-stone-table1.jpg",
+        "title": {
+            "en": "Terms & Conditions",
+            "de": "Terms & Bedingungen",
+            "he": "תקנון אתר תמרים בתומר"
+        },
+        "description": {
+            "en": "<p></p>\n",
+            "he": "<h2 class=\"ql-align-right ql-direction-rtl\"><strong>מבוא</strong></h2><p class=\"ql-align-right ql-direction-rtl\">אתר&nbsp;תמרים&nbsp;בתומר&nbsp;&nbsp;<strong>(“האתר”)</strong>&nbsp;הינו&nbsp;אתר&nbsp;אינטרנט&nbsp;המשמש&nbsp;כאתר&nbsp;מכירות&nbsp;לרכישות&nbsp;און&nbsp;ליין&nbsp;שבמסגרתו&nbsp;תוכלו&nbsp;לבצע&nbsp;הזמנות&nbsp;של&nbsp;תמרים,&nbsp;מוצרי&nbsp;תמרים,&nbsp;פירות&nbsp;יבשים,&nbsp;ומוצרי&nbsp;מזווה&nbsp;אחרים&nbsp;<strong>(“המוצר”)</strong>&nbsp;מאת&nbsp;תמרים&nbsp;בתומר.</p><p class=\"ql-align-right ql-direction-rtl\">תמרים&nbsp;בתומר&nbsp;בע”מ&nbsp;הינו&nbsp;חברה&nbsp;בע”מ&nbsp;מספר&nbsp;ח.פ&nbsp;516814134</p><p class=\"ql-align-right ql-direction-rtl\">האמור&nbsp;בתקנון&nbsp;זה&nbsp;בלשון&nbsp;זכר&nbsp;הוא&nbsp;לשם&nbsp;הנוחות&nbsp;בלבד&nbsp;והתקנון&nbsp;מתייחס&nbsp;לבני&nbsp;שני&nbsp;המינים&nbsp;באופן&nbsp;שווה.&nbsp;השימוש&nbsp;ו/או&nbsp;הרכישה&nbsp;באתר&nbsp;מותרים&nbsp;רק&nbsp;למשתמשים&nbsp;בגירים&nbsp;אשר&nbsp;גילם&nbsp;18&nbsp;שנים&nbsp;ומעלה.</p><p class=\"ql-align-right ql-direction-rtl\"><strong>השימוש&nbsp;באתר&nbsp;והרכישה&nbsp;באמצעות&nbsp;האתר&nbsp;כפופה&nbsp;לתנאי&nbsp;השימוש&nbsp;המפורטים&nbsp;בתקנון&nbsp;זה</strong>.</p><p class=\"ql-align-right ql-direction-rtl\">עצם&nbsp;רכישת&nbsp;המוצר&nbsp;באתר&nbsp;תהווה&nbsp;הצהרה&nbsp;מצד&nbsp;הלקוח&nbsp;כי&nbsp;קרא&nbsp;את&nbsp;הוראות&nbsp;תקנון&nbsp;זה,&nbsp;הבין&nbsp;אותן&nbsp;והסכים&nbsp;להן.&nbsp;התקנון&nbsp;מהווה&nbsp;חוזה&nbsp;מחייב&nbsp;בינך&nbsp;לבין&nbsp;תמרים&nbsp;בתומר.&nbsp;אנא&nbsp;הקפד&nbsp;לקרוא&nbsp;היטב&nbsp;את&nbsp;תנאי&nbsp;השימוש&nbsp;בטרם&nbsp;השימוש&nbsp;באתר&nbsp;ו/או&nbsp;ביצוע&nbsp;רכישה.</p><p class=\"ql-align-right ql-direction-rtl\">תמרים&nbsp;בתומר&nbsp;שומרת&nbsp;לעצמה&nbsp;את&nbsp;הזכות&nbsp;לעדכן&nbsp;ולשנות&nbsp;את&nbsp;התקנון&nbsp;מעת&nbsp;לעת&nbsp;ע”פ&nbsp;שקול&nbsp;דעתה&nbsp;הבלעדי,&nbsp;וזאת&nbsp;ללא&nbsp;צורך&nbsp;במתן&nbsp;הודעה&nbsp;מוקדמת.&nbsp;מובהר&nbsp;בזאת,&nbsp;כי&nbsp;למזמינים&nbsp;ולמשתמשים&nbsp;באתר,&nbsp;לא&nbsp;תהא&nbsp;כל&nbsp;טענות&nbsp;ו/או&nbsp;תביעות&nbsp;כלפי&nbsp;תמרים&nbsp;בתומר&nbsp;,&nbsp;בגין&nbsp;עדכון&nbsp;ו/או&nbsp;שינוי&nbsp;כאמור.&nbsp;הנכם&nbsp;מתבקשים&nbsp;כאשר&nbsp;אתם&nbsp;מבצעים&nbsp;שימוש&nbsp;ו/או&nbsp;קניות&nbsp;באתר&nbsp;לקרוא&nbsp;את&nbsp;התקנון.&nbsp;</p><p class=\"ql-align-right ql-direction-rtl\">תנאי&nbsp;שימוש&nbsp;אלה&nbsp;מהווים&nbsp;את&nbsp;ההסכם&nbsp;השלם&nbsp;בין&nbsp;המשתמש/רוכש&nbsp;לבין&nbsp;תמרים&nbsp;בתומר.&nbsp;בכל&nbsp;מקרה&nbsp;שבו&nbsp;תוכן&nbsp;האתר&nbsp;סותר&nbsp;ו/או&nbsp;אינו&nbsp;תואם&nbsp;את&nbsp;האמור&nbsp;בתקנון&nbsp;זה,&nbsp;הוראות&nbsp;תקנון&nbsp;זה&nbsp;גוברות&nbsp;ויחולו.&nbsp;</p><h3 class=\"ql-align-right ql-direction-rtl\"><strong>הרכישה</strong></h3><h3 class=\"ql-align-right ql-direction-rtl\">האתר&nbsp;מאפשר&nbsp;ללקוחות&nbsp;קנייה&nbsp;נוחה,&nbsp;קלה&nbsp;ובטוחה&nbsp;של&nbsp;המוצר&nbsp;באמצעות&nbsp;האינטרנט.</h3><h3 class=\"ql-align-right ql-direction-rtl\">ניתן&nbsp;לרכוש&nbsp;את&nbsp;המוצר&nbsp;כל&nbsp;עוד&nbsp;הוא&nbsp;מוצג&nbsp;באתר&nbsp;בכל&nbsp;עת&nbsp;עד&nbsp;לגמר&nbsp;המלאי.</h3><h3 class=\"ql-align-right ql-direction-rtl\">תמרים&nbsp;בתומר&nbsp;זכאית&nbsp;שלא&nbsp;לספק&nbsp;ללקוח&nbsp;את&nbsp;המוצר&nbsp;עקב&nbsp;גמר&nbsp;המלאי&nbsp;הזמין&nbsp;המוקצה&nbsp;לאתר.&nbsp;ככל&nbsp;שמלאי&nbsp;המוצר&nbsp;אזל&nbsp;חרף&nbsp;הצגתו&nbsp;באתר,&nbsp;תמרים&nbsp;בתומר&nbsp;תפעל&nbsp;למתן&nbsp;הודעה&nbsp;ללקוח&nbsp;על&nbsp;כך&nbsp;ב-&nbsp;SMS&nbsp;&nbsp;או&nbsp;דוא”ל&nbsp;שמסר&nbsp;הלקוח&nbsp;בעת&nbsp;ההזמנה.&nbsp;תמרים&nbsp;בתומר&nbsp;רשאית&nbsp;להציע&nbsp;ללקוח&nbsp;מוצר&nbsp;חלופי&nbsp;יחד&nbsp;עם&nbsp;ההודעה.&nbsp;הלקוח&nbsp;יהא&nbsp;רשאי&nbsp;לבחור&nbsp;בין&nbsp;הספקת&nbsp;המוצר&nbsp;החלופי&nbsp;במחירו&nbsp;הנקוב&nbsp;בהודעה&nbsp;לבין&nbsp;ביטול&nbsp;ההזמנה&nbsp;ואי&nbsp;חיוב/&nbsp;ביטול&nbsp;החיוב&nbsp;הכספי&nbsp;בגין&nbsp;המוצר&nbsp;שהזמנתו&nbsp;בוטלה.</h3><h3 class=\"ql-align-right ql-direction-rtl\">דין&nbsp;הודעת&nbsp;הלקוח&nbsp;באמצעי&nbsp;הקשר&nbsp;שמסר&nbsp;בעת&nbsp;ההזמנה,&nbsp;כדין&nbsp;הזמנה.&nbsp;ברירת&nbsp;מחדל:&nbsp;ככל&nbsp;שהלקוח&nbsp;לא&nbsp;מסר&nbsp;הודעה&nbsp;תוך&nbsp;24&nbsp;שעות&nbsp;מעת&nbsp;שהודעה&nbsp;כאמור&nbsp;נשלחה&nbsp;אליו,&nbsp;הדבר&nbsp;ייחשב&nbsp;כביטול&nbsp;ההזמנה&nbsp;של&nbsp;המוצר&nbsp;שאינו&nbsp;זמין&nbsp;כאמור.&nbsp;ככל&nbsp;שהזמנה&nbsp;כללה&nbsp;מספר&nbsp;רכיבים,&nbsp;הרי&nbsp;שביטול&nbsp;הזמנת&nbsp;רכיב/בחירה&nbsp;במוצר&nbsp;חלופי&nbsp;בנסיבות&nbsp;של&nbsp;גמר&nbsp;מלאי&nbsp;כאמור&nbsp;לא&nbsp;תבטל&nbsp;את&nbsp;יתר&nbsp;ההזמנה&nbsp;של&nbsp;המוצרים&nbsp;הנוספים&nbsp;ולא&nbsp;תפחית&nbsp;מהחיוב&nbsp;בגין&nbsp;המשלוח.&nbsp;מוסכם&nbsp;כי&nbsp;במצב&nbsp;כאמור&nbsp;של&nbsp;גמר&nbsp;מלאי&nbsp;תהא&nbsp;רשאית&nbsp;תמרים&nbsp;בתומר&nbsp;לדחות&nbsp;את&nbsp;מועד&nbsp;ההספקה&nbsp;של&nbsp;כלל&nbsp;ההזמנה&nbsp;בשני&nbsp;ימי&nbsp;עסקים&nbsp;נוספים.</h3><h3 class=\"ql-align-right ql-direction-rtl\">הרכישה&nbsp;באתר&nbsp;הינה&nbsp;באמצעות&nbsp;כרטיס&nbsp;אשראי&nbsp;בלבד&nbsp;והעסקה&nbsp;תתבצע&nbsp;לאחר&nbsp;אישורה&nbsp;ע”י&nbsp;חברת&nbsp;האשראי.&nbsp;מחיר&nbsp;המוצר&nbsp;באתר&nbsp;כולל&nbsp;את&nbsp;המע”מ&nbsp;אופן&nbsp;אריזת&nbsp;המוצרים&nbsp;ייעשה&nbsp;לפי&nbsp;שיקול&nbsp;דעתה&nbsp;של&nbsp;תמרים&nbsp;בתומר&nbsp;&nbsp;וללקוח&nbsp;לא&nbsp;תהיה&nbsp;כל&nbsp;טענה&nbsp;כנגד&nbsp;תמרים&nbsp;בתומר&nbsp;בשל&nbsp;כך.</h3><h3 class=\"ql-align-right ql-direction-rtl\">תמרים&nbsp;בתומר&nbsp;שומרת&nbsp;לעצמה&nbsp;את&nbsp;הזכות&nbsp;לעדכן&nbsp;ולהפסיק&nbsp;את&nbsp;שיווק&nbsp;ומכירת&nbsp;מי&nbsp;מן&nbsp;המוצרים&nbsp;בכל&nbsp;עת,&nbsp;להוסיף&nbsp;מוצרים&nbsp;נוספים&nbsp;וכן&nbsp;לשלול&nbsp;זכות&nbsp;רכישה&nbsp;באתר&nbsp;על&nbsp;פי&nbsp;שיקול&nbsp;דעתה&nbsp;הבלעדי&nbsp;וללא&nbsp;צורך&nbsp;בכל&nbsp;הודעה&nbsp;מוקדמת.</h3><h3 class=\"ql-align-right ql-direction-rtl\"><strong>ביצוע&nbsp;הזמנות:</strong></h3><h3 class=\"ql-align-right ql-direction-rtl\">מחלקת&nbsp;הזמנות&nbsp;פועלת&nbsp;בימים&nbsp;א’-ה’&nbsp;בלבד&nbsp;למעט&nbsp;חגים,&nbsp;ערבי&nbsp;חג&nbsp;ומועדי&nbsp;ישראל,&nbsp;בין&nbsp;השעות&nbsp;בימים&nbsp;א-ה’&nbsp;בין&nbsp;השעות&nbsp;:&nbsp;9:00&nbsp;–&nbsp;14:00</h3><h3 class=\"ql-align-right ql-direction-rtl\">תמרים&nbsp;בתומר&nbsp;לא&nbsp;תהא&nbsp;אחראית&nbsp;בגין&nbsp;עיכובים&nbsp;שאינם&nbsp;בשליטתה&nbsp;ו/או&nbsp;מקורם&nbsp;במזמין,&nbsp;לרבות&nbsp;אך&nbsp;לא&nbsp;רק,&nbsp;קשיים&nbsp;הנובעים&nbsp;ממידע&nbsp;חסר&nbsp;בפרטי&nbsp;יצירת&nbsp;קשר&nbsp;כגון:&nbsp;טלפון,&nbsp;כתובת&nbsp;המזמין&nbsp;.&nbsp;עיכוב&nbsp;כאמור&nbsp;לא&nbsp;ייחשב&nbsp;כהפרת&nbsp;התחייבויות&nbsp;תמרים&nbsp;בתומר&nbsp;לאספקת&nbsp;המוצר,&nbsp;ולא&nbsp;יהיה&nbsp;בעיכוב&nbsp;כאמור&nbsp;כדי&nbsp;לפטור&nbsp;את&nbsp;המזמין&nbsp;מחובתו&nbsp;לשלם&nbsp;בעבור&nbsp;הזמנתו.</h3><h3 class=\"ql-align-right ql-direction-rtl\"><strong>מדיניות&nbsp;החזרות&nbsp;וביטולים</strong></h3><h3 class=\"ql-align-right ql-direction-rtl\">מדיניות&nbsp;ביטול&nbsp;עסקאות&nbsp;והחזרת&nbsp;המוצרים&nbsp;של&nbsp;אתר&nbsp;זה&nbsp;הינה&nbsp;בכפוף&nbsp;ובהתאם&nbsp;להוראות&nbsp;חוק&nbsp;הגנת&nbsp;הצרכן&nbsp;התשמ”א&nbsp;–&nbsp;1981&nbsp;או&nbsp;כל&nbsp;&nbsp;דין&nbsp;אחר.</h3><h3 class=\"ql-align-right ql-direction-rtl\">ביטול&nbsp;מחמת&nbsp;עקב&nbsp;פגם&nbsp;באיכות&nbsp;המוצר&nbsp;או&nbsp;עקב&nbsp;אי&nbsp;התאמה&nbsp;בין&nbsp;המוצר&nbsp;לבין&nbsp;הפרטים&nbsp;שנמסרו&nbsp;ללקוח&nbsp;בעת&nbsp;ביצוע&nbsp;ההזמנה&nbsp;או&nbsp;עקב&nbsp;אי-אספקת&nbsp;הנכס&nbsp;או&nbsp;השירות&nbsp;במועד&nbsp;שנקבע&nbsp;לכך&nbsp;בחוזה&nbsp;שבין&nbsp;הצדדים&nbsp;או&nbsp;בשל&nbsp;כל&nbsp;הפרה&nbsp;אחרת&nbsp;של&nbsp;החוזה&nbsp;בידי&nbsp;תמרים&nbsp;בתומר:</h3><h3 class=\"ql-align-right ql-direction-rtl\">הלקוח&nbsp;רשאי&nbsp;לפנות&nbsp;למוקד&nbsp;שירות&nbsp;הלקוחות&nbsp;שפרטי&nbsp;הקשר&nbsp;אליו&nbsp;להלן&nbsp;תוך&nbsp;14&nbsp;יום&nbsp;ממועד&nbsp;מסירת&nbsp;המוצר.&nbsp;תמרים&nbsp;בתומר&nbsp;תבדוק&nbsp;את&nbsp;התלונה&nbsp;ובמידה&nbsp;והתלונה&nbsp;תימצא&nbsp;מוצדקת,&nbsp;תשלח&nbsp;ללקוח&nbsp;הודעה&nbsp;בדואר&nbsp;אלקטרוני&nbsp;ותזכה&nbsp;את&nbsp;הלקוח&nbsp;עד&nbsp;לגובה&nbsp;הסכום&nbsp;ששולם&nbsp;בעבור&nbsp;אותו&nbsp;המוצר&nbsp;לרבות&nbsp;סכום&nbsp;המשלוח&nbsp;במקרים&nbsp;המתאימים&nbsp;(ככל&nbsp;שסופקו&nbsp;עוד&nbsp;מוצרים&nbsp;באותה&nbsp;הזמנה,&nbsp;ההחזר&nbsp;יוגבל&nbsp;רק&nbsp;למחיר&nbsp;המוצר&nbsp;שבוטל).&nbsp;תמרים&nbsp;בתומר&nbsp;רשאית&nbsp;לדרוש&nbsp;מהלקוח&nbsp;להוכיח&nbsp;שהמוצר&nbsp;שקיבל&nbsp;אכן&nbsp;אינו&nbsp;תקין&nbsp;ו/או&nbsp;מאיכות&nbsp;ירודה,&nbsp;לרבות,&nbsp;אך&nbsp;לא&nbsp;רק,&nbsp;באמצעות&nbsp;משלוח&nbsp;תמונה&nbsp;של&nbsp;המוצר&nbsp;נשוא&nbsp;התלונה.</h3><h3 class=\"ql-align-right ql-direction-rtl\">בגין&nbsp;ביטול&nbsp;מוצדק&nbsp;כאמור,&nbsp;לא&nbsp;יגבו&nbsp;דמי&nbsp;ביטול.</h3><h3 class=\"ql-align-right ql-direction-rtl\">במקרה&nbsp;של&nbsp;ביטול&nbsp;מוצדק&nbsp;כאמור:</h3><h3 class=\"ql-align-right ql-direction-rtl\">תחזיר&nbsp;תמרים&nbsp;בתומר&nbsp;בתוך&nbsp;14&nbsp;ימים&nbsp;מיום&nbsp;קבלת&nbsp;ההודעה&nbsp;על&nbsp;הביטול,&nbsp;את&nbsp;אותו&nbsp;חלק&nbsp;ממחיר&nbsp;העסקה&nbsp;שכבר&nbsp;שולם&nbsp;על&nbsp;ידי&nbsp;הצרכן&nbsp;או&nbsp;תבטל&nbsp;את&nbsp;חיובו&nbsp;של&nbsp;הצרכן&nbsp;בשל&nbsp;המוצר&nbsp;ותמסור&nbsp;לו&nbsp;בדואר&nbsp;אלקטרוני&nbsp;עותק&nbsp;מהודעת&nbsp;ביטול&nbsp;החיוב;</h3><h3 class=\"ql-align-right ql-direction-rtl\">ביצוע&nbsp;החזר&nbsp;כאמור&nbsp;מותנה&nbsp;בכך,&nbsp;בהעדר&nbsp;הודעה&nbsp;אחרת&nbsp;בכתב&nbsp;מאת&nbsp;תמרים&nbsp;בתומר&nbsp;&nbsp;שאם&nbsp;&nbsp;קיבל&nbsp;הלקוח&nbsp;את&nbsp;המוצר,&nbsp;יעמידו&nbsp;לרשות&nbsp;תמרים&nbsp;בתומר&nbsp;במקום&nbsp;שבו&nbsp;נמסר&nbsp;לו&nbsp;הנכס&nbsp;ויודיע&nbsp;על&nbsp;כך&nbsp;לתמרים&nbsp;בתומר,&nbsp;וכל&nbsp;זאת&nbsp;בתוך&nbsp;3&nbsp;ימים&nbsp;ממועד&nbsp;מתן&nbsp;הודעת&nbsp;הביטול&nbsp;מאת&nbsp;הלקוח.&nbsp;ככל&nbsp;שמדובר&nbsp;במוצר&nbsp;שסופק&nbsp;לביתו&nbsp;של&nbsp;הלקוח,&nbsp;מחויב&nbsp;הלקוח&nbsp;לתאם&nbsp;האיסוף&nbsp;עם&nbsp;השליח&nbsp;מטעם&nbsp;תמרים&nbsp;בתומר&nbsp;בהתאמה&nbsp;לכללי&nbsp;תיאום&nbsp;המשלוח&nbsp;הנקובים&nbsp;בהסכם&nbsp;זה.</h3><h3 class=\"ql-align-right ql-direction-rtl\">מוצר&nbsp;יוחזר&nbsp;כאשר&nbsp;הוא&nbsp;באריזתו&nbsp;המקורית&nbsp;שאינה&nbsp;פתוחה,&nbsp;למעט&nbsp;ככל&nbsp;שהתלונה&nbsp;מתייחסת&nbsp;לפגם&nbsp;במוצר&nbsp;שאינו&nbsp;ניתן&nbsp;להבחנה&nbsp;בטרם&nbsp;פתיחתו,&nbsp;ובצירוף&nbsp;החשבונית&nbsp;המקורית/&nbsp;העתק&nbsp;שלה.</h3><h3 class=\"ql-align-right ql-dir"
+        }
+    },
+    "faq": {
+        "page_status": true,
+        "leftcol_status": true,
+        "rightcol_status": true,
+        "header_bg": "https://bizzstudio.s3.eu-north-1.amazonaws.com/faq/47362bfe-22c8-4b4b-aff0-9037dcd315fa_074e6f25-ccce-4b9b-8eb0-9ddc069c29f2_glass-bowl-full-pitted-dates-placed-stone-table1.jpg",
+        "left_img": "",
+        "title": {
+            "en": "FAQs",
+            "de": "Häufig gestellte Fragen",
+            "he": "שאלות נפוצות"
+        },
+        "faq_one": {
+            "en": "How does the KachaBazar work?",
+            "de": "Wie funktioniert der KachaBazar?",
+            "he": "איזה כרטיסי אשראי אתם מקבלים?"
+        },
+        "description_one": {
+            "en": "Yes. You can cancel your subscription anytime. Your subscription will continue to be active until the end of your current term (month or year) but it will not auto-renew. Unless you delete your account manually, your account and all data will be deleted 60 days from the day your subscription becomes inactive.",
+            "de": "Ja. Sie können Ihr Abonnement jederzeit kündigen. Ihr Abonnement bleibt bis zum Ende Ihrer aktuellen Laufzeit (Monat oder Jahr) aktiv, verlängert sich jedoch nicht automatisch. Sofern Sie Ihr Konto nicht manuell löschen, werden Ihr Konto und alle Daten 60 Tage nach Inaktivität Ihres Abonnements gelöscht.",
+            "he": "אנו מקבלים את רוב סוגי כרטיסי האשראי הנפוצים בארץ: ויזה, אמריקן אקספרס, ישרכארט ומסטרכארד. \nודיינרס\n"
+        },
+        "faq_two": {
+            "en": "Can I cancel my subscription anytime?",
+            "de": "Kann ich mein Abonnement jederzeit kündigen?",
+            "he": "לאן אתם עושים משלוחים?"
+        },
+        "description_two": {
+            "en": "Distinctively initiate error-free channels with highly efficient ROI. Intrinsicly envisioneer world-class data via best-of-breed best practices. Efficiently enable empowered e-tailers after cross-unit services. Uniquely expedite seamless e-tailers via cooperative interfaces. Monotonectally myocardinate customer directed meta-services whereas error-free scenarios.",
+            "de": "Ja. Sie können Ihr Abonnement jederzeit kündigen. Ihr Abonnement bleibt bis zum Ende Ihrer aktuellen Laufzeit (Monat oder Jahr) aktiv, verlängert sich jedoch nicht automatisch. Sofern Sie Ihr Konto nicht manuell löschen, werden Ihr Konto und alle Daten 60 Tage nach Inaktivität Ihres Abonnements gelöscht.",
+            "he": "כלל פירוט המשלוחים מפורט בכפתור \"משלוחים ואיזורי חלוקה\" בדף הבית."
+        },
+        "faq_three": {
+            "en": "Whice payment method you should accept?",
+            "de": "Welche Zahlungsmethode sollten Sie akzeptieren?",
+            "he": "אם אזמין משלוח, מתי יגיע אלי?"
+        },
+        "description_three": {
+            "en": "Holisticly engage sticky niche markets before collaborative collaboration and idea-sharing. Phosfluorescently facilitate parallel applications with unique imperatives. Proactively plagiarize functionalized deliverables via inexpensive solutions. Collaboratively embrace web-enabled infomediaries rather than diverse testing procedures.",
+            "de": "Ja. Sie können Ihr Abonnement jederzeit kündigen. Ihr Abonnement bleibt bis zum Ende Ihrer aktuellen Laufzeit (Monat oder Jahr) aktiv, verlängert sich jedoch nicht automatisch. Sofern Sie Ihr Konto nicht manuell löschen, werden Ihr Konto und alle Daten 60 Tage nach Inaktivität Ihres Abonnements gelöscht.",
+            "he": "אנחנו מבצעים את המשלוחים בעצמנו. זמן המשלוח בין יום לשבועיים בדרך כלל מודיעים בסמס ערב לפני המשלוח"
+        },
+        "faq_four": {
+            "en": "Can I cancel my subscription anytime?",
+            "de": "Can I cancel my subscription anytime?",
+            "he": ""
+        },
+        "description_four": {
+            "en": "Continually impact seamless imperatives for best-of-breed best practices. Phosfluorescently facilitate parallel applications with unique imperatives. Proactively plagiarize functionalized deliverables via inexpensive solutions. Collaboratively embrace web-enabled infomediaries rather than diverse testing procedures.",
+            "de": "Continually impact seamless imperatives for best-of-breed\nbest practices. Phosfluorescently facilitate parallel\n                      applications with unique imperatives. Proactively\n                      plagiarize functionalized deliverables via inexpensive\n                      solutions. Collaboratively embrace web-enabled\n                      infomediaries rather than diverse testing procedures.",
+            "he": ""
+        },
+        "faq_five": {
+            "en": "What is KachaBazar EC2 auto scaling?",
+            "de": "Was ist die automatische Skalierung von KachaBazar EC2?",
+            "he": ""
+        },
+        "description_five": {
+            "en": "Continually impact seamless imperatives for best-of-breed best practices. Phosfluorescently facilitate parallel applications with unique imperatives. Proactively plagiarize functionalized deliverables via inexpensive solutions. Collaboratively embrace web-enabled infomediaries rather than diverse testing procedures.",
+            "de": "Kontinuierliche Umsetzung nahtloser Anforderungen für Best-of-Breed-Best Practices. Phosfluoreszierend erleichtert parallele Anwendungen mit einzigartigen Anforderungen. Plagiieren Sie proaktiv funktionalisierte Ergebnisse mit kostengünstigen Lösungen. Nutzen Sie gemeinsam webbasierte Infomediaries anstelle verschiedener Testverfahren.",
+            "he": ""
+        },
+        "faq_six": {
+            "en": "What are the benefits of using KachaBazar affliate?",
+            "de": "Welche Vorteile bietet die Nutzung eines Cloud Clever-Partners?",
+            "he": "האם יש לכם כשרות?"
+        },
+        "description_six": {
+            "en": "Continually impact seamless imperatives for best-of-breed best practices. Phosfluorescently facilitate parallel applications with unique imperatives. Proactively plagiarize functionalized deliverables via inexpensive solutions. Collaboratively embrace web-enabled infomediaries rather than diverse testing procedures.",
+            "de": "Kontinuierliche Umsetzung nahtloser Anforderungen für Best-of-Breed-Best Practices. Phosfluoreszierend erleichtert parallele Anwendungen mit einzigartigen Anforderungen. Plagiieren Sie proaktiv funktionalisierte Ergebnisse mit kostengünstigen Lösungen. Nutzen Sie gemeinsam webbasierte Infomediaries anstelle verschiedener Testverfahren.",
+            "he": "יש לנו תעודת כשרות על התמרים, מטעם רבנות בקעת הירדן. הופרשו תרומות ומעש"
+        },
+        "faq_seven": {
+            "en": "What is a affliates product configuration?",
+            "de": "Was ist eine Affiliate-Produktkonfiguration?",
+            "he": "מתי העסק פתוח?"
+        },
+        "description_seven": {
+            "en": "Yes. You can cancel your subscription anytime. Your subscription will continue to be active until the end of your current term (month or year) but it will not auto-renew. Unless you delete your account manually, your account and all data will be deleted 60 days from the day your subscription becomes inactive.",
+            "de": "Ja. Sie können Ihr Abonnement jederzeit kündigen. Ihr Abonnement bleibt bis zum Ende Ihrer aktuellen Laufzeit (Monat oder Jahr) aktiv, verlängert sich jedoch nicht automatisch. Sofern Sie Ihr Konto nicht manuell löschen, werden Ihr Konto und alle Daten 60 Tage nach dem Tag, an dem Ihr Abonnement inaktiv wird, gelöscht.",
+            "he": "ימים א-ה' 10-16\nאם לא עונים בטלפון ניתן להשאיר הודעת וואסאפ או סמס"
+        },
+        "faq_eight": {
+            "en": "What is fleet management and how is it different from dynamic scaling?",
+            "de": "Was ist Flottenmanagement und wie unterscheidet es sich von dynamischer Skalierung?",
+            "he": "קיבלתי מוצר לא תקין, מה עושים?"
+        },
+        "description_eight": {
+            "en": "Distinctively initiate error-free channels with highly efficient ROI. Intrinsicly envisioneer world-class data via best-of-breed best practices. Efficiently enable empowered e-tailers after cross-unit services. Uniquely expedite seamless e-tailers via cooperative interfaces. Monotonectally myocardinate customer directed meta-services whereas error-free scenarios.",
+            "de": "Initiieren Sie gezielt fehlerfreie Kanäle mit hocheffizientem ROI. Stellen Sie sich durch branchenführende Best Practices erstklassige Daten vor. Ermöglichen Sie leistungsstarken E-Händlern auf effiziente Weise die Bereitstellung abteilungsübergreifender Dienstleistungen. Beschleunigen Sie nahtlose E-Tailer auf einzigartige Weise über kooperative Schnittstellen. Monotone myokardinierte kundengesteuerte Metadienste während fehlerfreier Szenarien.",
+            "he": "פונים אלינו בווצאפ. בצירוף תמונות בלבד.\n(הערה- אין זיכוי על סמך טעם/ריח, אלא על פגם הנראה לעין)"
+        }
+    },
+    "slider": {
+        "left_right_arrow": true,
+        "bottom_dots": false,
+        "both_slider": false,
+        "first_img": "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/40c36394-037b-4e67-a409-03c6ae00db61_Gemini_Generated_Image_dzt4dndzt4dndzt4.webp",
+        "first_title": {
+            "en": "The Best Quality Products Guaranteed!",
+            "de": "Die besten Qualitätsprodukte garantiert!",
+            "he": "חד פעמי"
+        },
+        "first_description": {
+            "en": "The Best Quality Products Guaranteed!",
+            "de": "Die besten Qualitätsprodukte garantiert!",
+            "he": ""
+        },
+        "first_button": {
+            "en": "Shop Now",
+            "de": "Jetzt einkaufen",
+            "he": ""
+        },
+        "first_link": "/product-category/חד-פעמי-וניקיון",
+        "second_img": "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/b33d8947-2cc4-41e1-bfeb-79570623cec7_Gemini_Generated_Image_4ekudv4ekudv4eku.webp",
+        "second_title": {
+            "en": "Best Different Type of Grocery Store",
+            "de": "Bestes anderes Lebensmittelgeschäft",
+            "he": "מוצרי ניקיון "
+        },
+        "second_description": {
+            "en": "Quickly aggregate empowered networks after emerging products...",
+            "de": "Schnelle Bündelung leistungsstarker Netzwerke nach neuen Produkten ...",
+            "he": ""
+        },
+        "second_button": {
+            "en": "Shop Now",
+            "de": "Jetzt einkaufen",
+            "he": "/product-category/fruits-vegetables"
+        },
+        "second_link": "/product-category/פירות-וירקות",
+        "third_img": "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/9e95e68e-a2a8-46d6-acd2-ee6804d4f3b1_Gemini_Generated_Image_4ekudv4ekudv4eku (2).webp",
+        "third_title": {
+            "en": "Quality Freshness Guaranteed!",
+            "de": "Qualitätsfrische garantiert!",
+            "he": "מוצרי חלב וביצים"
+        },
+        "third_description": {
+            "en": "Intrinsicly fashion performance based products rather than accurate benefits...",
+            "de": "Gestalten Sie Produkte grundsätzlich auf Leistung und nicht auf konkrete Vorteile ...",
+            "he": ""
+        },
+        "third_button": {
+            "en": "Shop Now",
+            "de": "Jetzt einkaufen",
+            "he": ""
+        },
+        "third_link": "/product-category/מוצרי-חלב-וביצים",
+        "four_img": "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/fa1344fb-1cf5-474a-996f-706c561f8e78_Gemini_Generated_Image_4ekudv4ekudv4eku (4).webp",
+        "four_title": {
+            "en": "The Best Quality Products Guaranteed!",
+            "de": "Die besten Qualitätsprodukte garantiert!",
+            "he": "שימורים בישול ואפיה"
+        },
+        "four_description": {
+            "en": "Dramatically facilitate effective total linkage for go forward processes...",
+            "de": "Ermöglichen Sie eine effektive Gesamtverknüpfung für weitere Prozesse erheblich.",
+            "he": ""
+        },
+        "four_button": {
+            "en": "Shop Now",
+            "de": "Jetzt einkaufen",
+            "he": ""
+        },
+        "four_link": "/product-category/שימורים-בישול-ואפיה",
+        "five_img": "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/56ae3eb0-e4ba-4bb3-89ec-bd5834b4c2de_Gemini_Generated_Image_4ekudv4ekudv4eku (5).webp",
+        "five_title": {
+            "en": "Best Different Type of Grocery Store",
+            "de": "Bestes anderes Lebensmittelgeschäft",
+            "he": "מבצעים"
+        },
+        "five_description": {
+            "en": "Quickly aggregate empowered networks after emerging products...",
+            "de": "Schnelle Bündelung leistungsstarker Netzwerke nach neuen Produkten ...",
+            "he": ""
+        },
+        "five_button": {
+            "en": "Shop Now",
+            "de": "Jetzt einkaufen",
+            "he": ""
+        },
+        "five_link": "/product-category/מבצעים"
+    },
+    "checkout": {
+        "personal_details": {
+            "en": "פרטים אישיים",
+            "de": "Persönliche Daten",
+            "he": "פרטים אישיים"
+        },
+        "first_name": {
+            "en": "First Name",
+            "de": "Vorname",
+            "he": "שם פרטי"
+        },
+        "last_name": {
+            "en": "Last Name",
+            "de": "Familienname, Nachname",
+            "he": "שם משפחה"
+        },
+        "email_address": {
+            "en": "Email Address",
+            "de": "E-Mail-Adresse",
+            "he": "כתובת אימייל"
+        },
+        "checkout_phone": {
+            "en": "Phone Number",
+            "de": "Telefonnummer",
+            "he": "טלפון"
+        },
+        "shipping_details": {
+            "en": "פרטי משלוח",
+            "de": "Versanddetails",
+            "he": "פרטי משלוח"
+        },
+        "street_address": {
+            "en": "רחוב",
+            "de": "Straßenadresse",
+            "he": "כתובת רחוב"
+        },
+        "city": {
+            "en": "עיר",
+            "de": "Stadt",
+            "he": "עיר"
+        },
+        "country": {
+            "en": "מדינה",
+            "de": "Land",
+            "he": "מדינה"
+        },
+        "zip_code": {
+            "en": "מיקוד",
+            "de": "PLZ",
+            "he": "מיקוד"
+        },
+        "shipping_cost": {
+            "en": "Shipping Cost",
+            "de": "Versandkosten",
+            "he": "משלוח עד הבית"
+        },
+        "payment_method": {
+            "en": "אמצעי תשלום",
+            "de": "Bezahlverfahren",
+            "he": "אמצעי תשלום"
+        },
+        "continue_button": {
+            "en": "חזרה לחנות",
+            "de": "Weiterversand",
+            "he": "חזרה"
+        },
+        "confirm_button": {
+            "en": "אישור הזמנה",
+            "de": "Bestellung bestätigen",
+            "he": "לתשלום"
+        },
+        "order_summary": {
+            "en": "סיכום הזמנה",
+            "de": "Bestellübersicht",
+            "he": "סיכום הזמנה"
+        },
+        "apply_button": {
+            "en": "החל",
+            "de": "Anwenden",
+            "he": "החל קופון"
+        },
+        "sub_total": {
+            "en": "סכום משנה",
+            "de": "Zwischensumme",
+            "he": "עלות ההזמנה"
+        },
+        "discount": {
+            "en": "הנחה",
+            "de": "Rabatt",
+            "he": "הנחת קופון"
+        },
+        "total_cost": {
+            "en": "סה\"כ לתשלום",
+            "de": "GESAMTKOSTEN",
+            "he": "עלות כוללת"
+        }
+    },
+    "dashboard": {
+        "invoice_message_first": {
+            "en": "Thank You",
+            "de": "Danke",
+            "he": "תודה"
+        },
+        "invoice_message_last": {
+            "en": "!Your order have been received",
+            "de": "Ihre Bestellung ist eingegangen!",
+            "he": "ההזמנה שלך התקבלה!"
+        },
+        "print_button": {
+            "en": "Print Invoice",
+            "de": "Rechnung Drucken",
+            "he": "הדפסה"
+        },
+        "download_button": {
+            "en": "Download Invoice",
+            "de": "Download Rechnung",
+            "he": "הורדה"
+        },
+        "dashboard_title": {
+            "en": "Dashboard",
+            "de": "Armaturenbrett",
+            "he": "לוח בקרה"
+        },
+        "total_order": {
+            "en": "Total Orders",
+            "de": "Gesamtbestellungen",
+            "he": "סה''כ הזמנות"
+        },
+        "pending_order": {
+            "en": "Pending Orders",
+            "de": "Ausstehende Bestellungen",
+            "he": "הזמנות בהמתנה"
+        },
+        "processing_order": {
+            "en": "Processing Order",
+            "de": "Bearbeitungsauftrag",
+            "he": "הזמנות בטיפול"
+        },
+        "complete_order": {
+            "en": "Complete Orders",
+            "de": "Bestellungen abschließen",
+            "he": "הזמנות שהסתיימו"
+        },
+        "recent_order": {
+            "en": "Recent Orders",
+            "de": "letzte Bestellungen",
+            "he": "הזמנות אחרונות (לפעולות נוספות יש לעבור לעמוד ההזמנות שלי)"
+        },
+        "my_order": {
+            "en": "My Orders",
+            "de": "Meine Bestellungen",
+            "he": "ההזמנות שלי"
+        },
+        "update_profile": {
+            "en": "Update Profile",
+            "de": "Profil aktualisieren",
+            "he": "עדכן פרופיל"
+        },
+        "full_name": {
+            "en": "First Name",
+            "de": "Vollständiger Name",
+            "he": "שם פרטי"
+        },
+        "address": {
+            "en": "Address",
+            "de": "Adresse",
+            "he": "כתובת"
+        },
+        "user_phone": {
+            "en": "Phone/Mobile",
+            "de": "Mobiltelefon",
+            "he": "טלפון"
+        },
+        "user_email": {
+            "en": "Email Address",
+            "de": "E-Mail-Adresse",
+            "he": "אימייל"
+        },
+        "update_button": {
+            "en": "Update Profile",
+            "de": "Profil aktualisieren",
+            "he": "עדכון"
+        },
+        "current_password": {
+            "en": "Current Password",
+            "de": "Aktuelles Passwort",
+            "he": "סיסמה נוכחית"
+        },
+        "new_password": {
+            "en": "New Password",
+            "de": "Neues Kennwort",
+            "he": "סיסמה חדשה"
+        },
+        "change_password": {
+            "en": "Change Password",
+            "de": "Kennwort ändern",
+            "he": "שינוי סיסמה"
+        },
+        "last_name": {
+            "he": "שם משפחה",
+            "en": "Last Name"
+        },
+        "my_documents": {
+            "he": ""
+        }
+    },
+    "footer": {
+        "promo_status": true,
+        "block1_status": true,
+        "block2_status": true,
+        "block3_status": true,
+        "block4_status": true,
+        "payment_method_status": true,
+        "bottom_contact_status": true,
+        "social_links_status": false,
+        "shipping_card": {
+            "en": "Free Shipping From €500.00",
+            "de": "Kostenloser Versand ab 500,00 €",
+            "he": "משלוחים עד העסק"
+        },
+        "support_card": {
+            "en": "Support 24/7  At Anytime",
+            "de": "Support rund um die Uhr und jederzeit",
+            "he": "0533777427"
+        },
+        "payment_card": {
+            "en": "Secure Payment  Totally Safe",
+            "de": "Sichere Zahlung, absolut sicher",
+            "he": "תשלום מאובטח"
+        },
+        "offer_card": {
+            "en": "Latest Offer Upto 20% Off",
+            "de": "Aktuelles Angebot: Bis zu 20 % Rabatt",
+            "he": "מבצעים והנחות"
+        },
+        "block1_title": {
+            "en": "Products",
+            "de": "Unternehmen",
+            "he": "מידע נוסף"
+        },
+        "block1_sub_title1": {
+            "en": "Vegetables",
+            "de": "Über uns",
+            "he": "שאלות נפוצות"
+        },
+        "block1_sub_link1": "/faqs",
+        "block1_sub_title2": {
+            "en": "Fruits",
+            "de": "Kontaktiere uns",
+            "he": "אודות"
+        },
+        "block1_sub_link2": "/about-us",
+        "block1_sub_title3": {
+            "en": "Leaves&Herbs",
+            "de": "Karriere",
+            "he": "צרו קשר"
+        },
+        "block1_sub_link3": "/contact-us",
+        "block1_sub_title4": {
+            "en": "Legumes",
+            "de": "Neueste Nachrichten",
+            "he": "הצהרת נגישות"
+        },
+        "block1_sub_link4": "/accessibility-statement",
+        "block2_title": {
+            "en": "Service",
+            "de": "Neueste Nachrichten",
+            "he": "כל המוצרים"
+        },
+        "block2_sub_title1": {
+            "en": "My account",
+            "de": "Fisch Fleisch",
+            "he": "פירות וירקות"
+        },
+        "block2_sub_link1": "/product-category/fruits-vegetables",
+        "block2_sub_title2": {
+            "en": "Soft Drink",
+            "de": "Erfrischungsgetränk",
+            "he": "חד פעמי וניקיון"
+        },
+        "block2_sub_link2": "/product-category/disposable-cleaning",
+        "block2_sub_title3": {
+            "en": "Dashboard",
+            "de": "Milch und Milchprodukte",
+            "he": "מאפייה"
+        },
+        "block2_sub_link3": "/product-category/bakery",
+        "block2_sub_title4": {
+            "en": "Update personal details",
+            "de": "Schönheit und Gesundheit",
+            "he": "מוצרי חלב וביצים"
+        },
+        "block2_sub_link4": "/product-category/dairy-eggs",
+        "block3_title": {
+            "en": "More info",
+            "de": "Mein Konto",
+            "he": "החשבון שלי"
+        },
+        "block3_sub_title1": {
+            "en": "Accessibility statement",
+            "de": "Armaturenbrett",
+            "he": "לוח בקרה"
+        },
+        "block3_sub_link1": "/user/dashboard",
+        "block3_sub_title2": {
+            "en": "Terms and Conditions",
+            "de": "Meine Bestellungen",
+            "he": "ההזמנות שלי"
+        },
+        "block3_sub_link2": "/user/my-orders",
+        "block3_sub_title3": {
+            "en": "Privacy-policy",
+            "de": "letzte Bestellungen",
+            "he": "עדכן פרופיל"
+        },
+        "block3_sub_link3": "/user/update-profile",
+        "block3_sub_title4": {
+            "en": "About",
+            "de": "Profil aktualisieren",
+            "he": "שינוי סיסמה"
+        },
+        "block3_sub_link4": "/user/change-password",
+        "block4_logo": "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/f15e39ec-44b6-42e0-b100-395e6857fbfc_logo-mnm.png",
+        "block4_address": {
+            "en": "987 Andre Plain Suite High Street 838, Lake Hestertown, USA",
+            "de": "987 Andre Plain Suite High Street 838, Lake Hestertown, USA",
+            "he": "רחוב החשמל 1, א.ת. בית שאן"
+        },
+        "block4_phone": "053-377-7427",
+        "block4_email": "Office@nmplus.co.il",
+        "social_facebook": "",
+        "social_twitter": null,
+        "social_pinterest": null,
+        "social_linkedin": null,
+        "social_whatsapp": null,
+        "payment_method_img": "https://bizzstudio.s3.eu-north-1.amazonaws.com/HomePage/a6dfed8e-4330-443a-8a8d-c339e909c2af_pay methods.png",
+        "bottom_contact": "053-377-7427"
+    },
+    "slug": {
+        "right_box_status": true,
+        "card_description_one": {
+            "en": "Free shipping applies to all orders over shipping €100",
+            "de": "Kostenloser Versand gilt für alle Bestellungen über 100 € Versandkosten",
+            "he": ""
+        },
+        "card_description_two": {
+            "en": "Home Delivery within 1 Hour",
+            "de": "Lieferung nach Hause innerhalb von 1 Stunde",
+            "he": ""
+        },
+        "card_description_three": {
+            "en": "Cash on Delivery Available",
+            "de": "Lieferung per Nachnahme möglich",
+            "he": ""
+        },
+        "card_description_four": {
+            "en": "7 Days returns money back guarantee",
+            "de": "7 Tage Geld-zurück-Garantie",
+            "he": ""
+        },
+        "card_description_five": {
+            "en": "Warranty not available for this item",
+            "de": "Für diesen Artikel ist keine Garantie verfügbar",
+            "he": ""
+        },
+        "card_description_six": {
+            "en": "Guaranteed 100% organic from natural products.",
+            "de": "Garantiert 100 % biologisch aus Naturprodukten.",
+            "he": ""
+        },
+        "card_description_seven": {
+            "en": "Delivery from our pick point Boho One, Bridge Street West, Middlesbrough, North Yorkshire, TS2 1AE.",
+            "de": "Lieferung von unserem Abholpunkt Boho One, Bridge Street West, Middlesbrough, North Yorkshire, TS2 1AE.",
+            "he": ""
+        }
+    },
+    "seo": {
+        "favicon": "https://bizzstudio.s3.eu-north-1.amazonaws.com/seo/a8f9b9ce-258a-4a37-a5ae-f8fddaa1e917_M-logo.webp",
+        "meta_description": "שיווק והפצה לארגונים, מוסדות חינוך ומעונות יום - אצלנו תמצאו הכל! מוצרים טריים ומשלוחים מהירים. נכנסים לאתר ומקבלים הצעת מחיר.",
+        "meta_img": "https://bizzstudio.s3.eu-north-1.amazonaws.com/seo/2c15dca7-1ae2-4aab-9f63-b18093975f63_logo.png",
+        "meta_keywords": "שיווק והפצה לארגונים, מוסדות חינוך ומעונות יום - אצלנו תמצאו הכל! מוצרים טריים ומשלוחים מהירים. נכנסים לאתר ומקבלים הצעת מחיר.",
+        "meta_title": "MNM - ייבוא שיווק והפצה",
+        "meta_url": "https://nmplus.co.il/"
+    }
+}
