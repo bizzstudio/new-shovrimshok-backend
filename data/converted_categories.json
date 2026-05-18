@@ -1,0 +1,2246 @@
+[
+  {
+    "_id": "7a155ecea42606a50365fc6c",
+    "name": {
+      "he": "קטגוריה אזלו במלאי"
+    },
+    "description": {},
+    "slug": "קטגוריה-אזלו-במלאי",
+    "parentId": null,
+    "parentName": null,
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קטגוריה אזלו במלאי"
+    },
+    "sourceKey": "shtibay:category:קטגוריה אזלו במלאי"
+  },
+  {
+    "_id": "d474d4f33610b8faae6904f1",
+    "name": {
+      "he": "שטיבאי"
+    },
+    "description": {},
+    "slug": "שטיבאי",
+    "parentId": "7a155ecea42606a50365fc6c",
+    "parentName": "קטגוריה אזלו במלאי",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קטגוריה אזלו במלאי/שטיבאי"
+    },
+    "sourceKey": "shtibay:category:קטגוריה אזלו במלאי/שטיבאי"
+  },
+  {
+    "_id": "1b7d4e43c373c07fca618c72",
+    "name": {
+      "he": "הצללה"
+    },
+    "description": {},
+    "slug": "הצללה",
+    "parentId": null,
+    "parentName": null,
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה"
+    },
+    "sourceKey": "shtibay:category:הצללה"
+  },
+  {
+    "_id": "d18218da44d5d07e2dcd7be1",
+    "name": {
+      "he": "רשתות הצללה"
+    },
+    "description": {},
+    "slug": "רשתות-הצללה",
+    "parentId": "1b7d4e43c373c07fca618c72",
+    "parentName": "הצללה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/רשתות הצללה"
+    },
+    "sourceKey": "shtibay:category:הצללה/רשתות הצללה"
+  },
+  {
+    "_id": "c73bd8647c55ab0157b6a0eb",
+    "name": {
+      "he": "פלאיה"
+    },
+    "description": {},
+    "slug": "פלאיה",
+    "parentId": "d18218da44d5d07e2dcd7be1",
+    "parentName": "רשתות הצללה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/רשתות הצללה/פלאיה"
+    },
+    "sourceKey": "shtibay:category:הצללה/רשתות הצללה/פלאיה"
+  },
+  {
+    "_id": "f6694a67f2275fee7a3b8c32",
+    "name": {
+      "he": "רשת הגנה לעצים"
+    },
+    "description": {},
+    "slug": "רשת-הגנה-לעצים",
+    "parentId": "1b7d4e43c373c07fca618c72",
+    "parentName": "הצללה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/רשת הגנה לעצים"
+    },
+    "sourceKey": "shtibay:category:הצללה/רשת הגנה לעצים"
+  },
+  {
+    "_id": "7aa6a07ad9cea23278b37221",
+    "name": {
+      "he": "פלאיה"
+    },
+    "description": {},
+    "slug": "פלאיה-2",
+    "parentId": "f6694a67f2275fee7a3b8c32",
+    "parentName": "רשת הגנה לעצים",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/רשת הגנה לעצים/פלאיה"
+    },
+    "sourceKey": "shtibay:category:הצללה/רשת הגנה לעצים/פלאיה"
+  },
+  {
+    "_id": "d9a8af9e19790c84eb22bef7",
+    "name": {
+      "he": "נלווים לרשת צל"
+    },
+    "description": {},
+    "slug": "נלווים-לרשת-צל",
+    "parentId": "1b7d4e43c373c07fca618c72",
+    "parentName": "הצללה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/נלווים לרשת צל"
+    },
+    "sourceKey": "shtibay:category:הצללה/נלווים לרשת צל"
+  },
+  {
+    "_id": "c3a99c03c230976c86508365",
+    "name": {
+      "he": "ברזנט"
+    },
+    "description": {},
+    "slug": "ברזנט",
+    "parentId": "1b7d4e43c373c07fca618c72",
+    "parentName": "הצללה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/ברזנט"
+    },
+    "sourceKey": "shtibay:category:הצללה/ברזנט"
+  },
+  {
+    "_id": "c89253077c4d29bebbefc022",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa",
+    "parentId": "c3a99c03c230976c86508365",
+    "parentName": "ברזנט",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/ברזנט/PLAYA"
+    },
+    "sourceKey": "shtibay:category:הצללה/ברזנט/PLAYA"
+  },
+  {
+    "_id": "e4b72c3decf2cf15966c4016",
+    "name": {
+      "he": "אוהלי לייקרה"
+    },
+    "description": {},
+    "slug": "אוהלי-לייקרה",
+    "parentId": "1b7d4e43c373c07fca618c72",
+    "parentName": "הצללה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/אוהלי לייקרה"
+    },
+    "sourceKey": "shtibay:category:הצללה/אוהלי לייקרה"
+  },
+  {
+    "_id": "3e0c9f118b80f8bb26ad9450",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-2",
+    "parentId": "e4b72c3decf2cf15966c4016",
+    "parentName": "אוהלי לייקרה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/אוהלי לייקרה/PLAYA"
+    },
+    "sourceKey": "shtibay:category:הצללה/אוהלי לייקרה/PLAYA"
+  },
+  {
+    "_id": "94a5bf04aabd6d6d365acda0",
+    "name": {
+      "he": "רשת צל כפולה"
+    },
+    "description": {},
+    "slug": "רשת-צל-כפולה",
+    "parentId": "1b7d4e43c373c07fca618c72",
+    "parentName": "הצללה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/רשת צל כפולה"
+    },
+    "sourceKey": "shtibay:category:הצללה/רשת צל כפולה"
+  },
+  {
+    "_id": "780a41605e0e49ee2d01860f",
+    "name": {
+      "he": "פלאיה"
+    },
+    "description": {},
+    "slug": "פלאיה-3",
+    "parentId": "94a5bf04aabd6d6d365acda0",
+    "parentName": "רשת צל כפולה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/רשת צל כפולה/פלאיה"
+    },
+    "sourceKey": "shtibay:category:הצללה/רשת צל כפולה/פלאיה"
+  },
+  {
+    "_id": "b7976c91554e93206c6f62f5",
+    "name": {
+      "he": "ציליה לחוף"
+    },
+    "description": {},
+    "slug": "ציליה-לחוף",
+    "parentId": "1b7d4e43c373c07fca618c72",
+    "parentName": "הצללה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/ציליה לחוף"
+    },
+    "sourceKey": "shtibay:category:הצללה/ציליה לחוף"
+  },
+  {
+    "_id": "20be2a5a07b056ce827f723d",
+    "name": {
+      "he": "פלאיה"
+    },
+    "description": {},
+    "slug": "פלאיה-4",
+    "parentId": "b7976c91554e93206c6f62f5",
+    "parentName": "ציליה לחוף",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/ציליה לחוף/פלאיה"
+    },
+    "sourceKey": "shtibay:category:הצללה/ציליה לחוף/פלאיה"
+  },
+  {
+    "_id": "b8456cd1eb6ef5ea2b9561ec",
+    "name": {
+      "he": "גזיבו"
+    },
+    "description": {},
+    "slug": "גזיבו",
+    "parentId": "1b7d4e43c373c07fca618c72",
+    "parentName": "הצללה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/גזיבו"
+    },
+    "sourceKey": "shtibay:category:הצללה/גזיבו"
+  },
+  {
+    "_id": "2688ab3ca0c81c6ea5f71b14",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-3",
+    "parentId": "b8456cd1eb6ef5ea2b9561ec",
+    "parentName": "גזיבו",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/גזיבו/PLAYA"
+    },
+    "sourceKey": "shtibay:category:הצללה/גזיבו/PLAYA"
+  },
+  {
+    "_id": "5e0fecd4a4a9dc3863d7b687",
+    "name": {
+      "he": "שמשיות"
+    },
+    "description": {},
+    "slug": "שמשיות",
+    "parentId": "1b7d4e43c373c07fca618c72",
+    "parentName": "הצללה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/שמשיות"
+    },
+    "sourceKey": "shtibay:category:הצללה/שמשיות"
+  },
+  {
+    "_id": "596b7cc141be1f224fcb695e",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-4",
+    "parentId": "5e0fecd4a4a9dc3863d7b687",
+    "parentName": "שמשיות",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/שמשיות/PLAYA"
+    },
+    "sourceKey": "shtibay:category:הצללה/שמשיות/PLAYA"
+  },
+  {
+    "_id": "41272fed87de17ec1562dcd0",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-5",
+    "parentId": "b7976c91554e93206c6f62f5",
+    "parentName": "ציליה לחוף",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/ציליה לחוף/PLAYA"
+    },
+    "sourceKey": "shtibay:category:הצללה/ציליה לחוף/PLAYA"
+  },
+  {
+    "_id": "93e5b0bcda70962b65a9ee22",
+    "name": {
+      "he": "פרגולות"
+    },
+    "description": {},
+    "slug": "פרגולות",
+    "parentId": "1b7d4e43c373c07fca618c72",
+    "parentName": "הצללה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/פרגולות"
+    },
+    "sourceKey": "shtibay:category:הצללה/פרגולות"
+  },
+  {
+    "_id": "8a93b3f576f6b85dc4d0243d",
+    "name": {
+      "he": "Garden Top"
+    },
+    "description": {},
+    "slug": "garden-top",
+    "parentId": "93e5b0bcda70962b65a9ee22",
+    "parentName": "פרגולות",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/פרגולות/Garden Top"
+    },
+    "sourceKey": "shtibay:category:הצללה/פרגולות/Garden Top"
+  },
+  {
+    "_id": "c0482553437d5f46267fce50",
+    "name": {
+      "he": "Garden Top"
+    },
+    "description": {},
+    "slug": "garden-top-2",
+    "parentId": "b8456cd1eb6ef5ea2b9561ec",
+    "parentName": "גזיבו",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/גזיבו/Garden Top"
+    },
+    "sourceKey": "shtibay:category:הצללה/גזיבו/Garden Top"
+  },
+  {
+    "_id": "aa317ca9cf345bd94668a2e8",
+    "name": {
+      "he": "סוככים"
+    },
+    "description": {},
+    "slug": "סוככים",
+    "parentId": "1b7d4e43c373c07fca618c72",
+    "parentName": "הצללה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/סוככים"
+    },
+    "sourceKey": "shtibay:category:הצללה/סוככים"
+  },
+  {
+    "_id": "f36fcbffa994d2dc22920de6",
+    "name": {
+      "he": "Garden Top"
+    },
+    "description": {},
+    "slug": "garden-top-3",
+    "parentId": "aa317ca9cf345bd94668a2e8",
+    "parentName": "סוככים",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/סוככים/Garden Top"
+    },
+    "sourceKey": "shtibay:category:הצללה/סוככים/Garden Top"
+  },
+  {
+    "_id": "ef4c60792d4a598e9bf80533",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-6",
+    "parentId": "d18218da44d5d07e2dcd7be1",
+    "parentName": "רשתות הצללה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/רשתות הצללה/PLAYA"
+    },
+    "sourceKey": "shtibay:category:הצללה/רשתות הצללה/PLAYA"
+  },
+  {
+    "_id": "51db57b23fe9ad1821900ebd",
+    "name": {
+      "he": "Tuindeco"
+    },
+    "description": {},
+    "slug": "tuindeco",
+    "parentId": "b8456cd1eb6ef5ea2b9561ec",
+    "parentName": "גזיבו",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הצללה/גזיבו/Tuindeco"
+    },
+    "sourceKey": "shtibay:category:הצללה/גזיבו/Tuindeco"
+  },
+  {
+    "_id": "ec3ed8b59f78d5aafcb05a10",
+    "name": {
+      "he": "מחסנים לגינה"
+    },
+    "description": {},
+    "slug": "מחסנים-לגינה",
+    "parentId": null,
+    "parentName": null,
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה"
+  },
+  {
+    "_id": "6df36f571a3c6a57257122b5",
+    "name": {
+      "he": "מחסן גינה פנל מבודד"
+    },
+    "description": {},
+    "slug": "מחסן-גינה-פנל-מבודד",
+    "parentId": "ec3ed8b59f78d5aafcb05a10",
+    "parentName": "מחסנים לגינה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה/מחסן גינה פנל מבודד"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה/מחסן גינה פנל מבודד"
+  },
+  {
+    "_id": "b2d4bb5ae3750a4b18428fc1",
+    "name": {
+      "he": "שטיבאי"
+    },
+    "description": {},
+    "slug": "שטיבאי-2",
+    "parentId": "6df36f571a3c6a57257122b5",
+    "parentName": "מחסן גינה פנל מבודד",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה/מחסן גינה פנל מבודד/שטיבאי"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה/מחסן גינה פנל מבודד/שטיבאי"
+  },
+  {
+    "_id": "0688ab9b0fa38eb6a8c03356",
+    "name": {
+      "he": "מחסני גינה מפלסטיק"
+    },
+    "description": {},
+    "slug": "מחסני-גינה-מפלסטיק",
+    "parentId": "ec3ed8b59f78d5aafcb05a10",
+    "parentName": "מחסנים לגינה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה/מחסני גינה מפלסטיק"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה/מחסני גינה מפלסטיק"
+  },
+  {
+    "_id": "05bfd9ecb86a19b8f1f24f96",
+    "name": {
+      "he": "כתר"
+    },
+    "description": {},
+    "slug": "כתר",
+    "parentId": "0688ab9b0fa38eb6a8c03356",
+    "parentName": "מחסני גינה מפלסטיק",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה/מחסני גינה מפלסטיק/כתר"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה/מחסני גינה מפלסטיק/כתר"
+  },
+  {
+    "_id": "02f1137ae15eb7bb0f7f20cc",
+    "name": {
+      "he": "מוצרים נלווים למחסן"
+    },
+    "description": {},
+    "slug": "מוצרים-נלווים-למחסן",
+    "parentId": "ec3ed8b59f78d5aafcb05a10",
+    "parentName": "מחסנים לגינה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה/מוצרים נלווים למחסן"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה/מוצרים נלווים למחסן"
+  },
+  {
+    "_id": "bcd356e65796949ca8ef2a97",
+    "name": {
+      "he": "מחסני מתכת"
+    },
+    "description": {},
+    "slug": "מחסני-מתכת",
+    "parentId": "ec3ed8b59f78d5aafcb05a10",
+    "parentName": "מחסנים לגינה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה/מחסני מתכת"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה/מחסני מתכת"
+  },
+  {
+    "_id": "d4873bbab921d2d8e4aab4fb",
+    "name": {
+      "he": "Garden Top"
+    },
+    "description": {},
+    "slug": "garden-top-4",
+    "parentId": "bcd356e65796949ca8ef2a97",
+    "parentName": "מחסני מתכת",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה/מחסני מתכת/Garden Top"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה/מחסני מתכת/Garden Top"
+  },
+  {
+    "_id": "ea0a3fbadcec4390cb86992c",
+    "name": {
+      "he": "Garden Top"
+    },
+    "description": {},
+    "slug": "garden-top-5",
+    "parentId": "02f1137ae15eb7bb0f7f20cc",
+    "parentName": "מוצרים נלווים למחסן",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה/מוצרים נלווים למחסן/Garden Top"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה/מוצרים נלווים למחסן/Garden Top"
+  },
+  {
+    "_id": "f353d7395a92cbe36f55989d",
+    "name": {
+      "he": "עמדת שמירה"
+    },
+    "description": {},
+    "slug": "עמדת-שמירה",
+    "parentId": "ec3ed8b59f78d5aafcb05a10",
+    "parentName": "מחסנים לגינה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה/עמדת שמירה"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה/עמדת שמירה"
+  },
+  {
+    "_id": "ee4258e5a3816e884ece9a7c",
+    "name": {
+      "he": "אגוז"
+    },
+    "description": {},
+    "slug": "אגוז",
+    "parentId": "f353d7395a92cbe36f55989d",
+    "parentName": "עמדת שמירה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה/עמדת שמירה/אגוז"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה/עמדת שמירה/אגוז"
+  },
+  {
+    "_id": "cd581156d33c04f6e2e45971",
+    "name": {
+      "he": "מחסני פלסטיק LifeTime"
+    },
+    "description": {},
+    "slug": "מחסני-פלסטיק-lifetime",
+    "parentId": "ec3ed8b59f78d5aafcb05a10",
+    "parentName": "מחסנים לגינה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה/מחסני פלסטיק LifeTime"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה/מחסני פלסטיק LifeTime"
+  },
+  {
+    "_id": "89c61e97d059c9ec0a756368",
+    "name": {
+      "he": "ארונות שרות"
+    },
+    "description": {},
+    "slug": "ארונות-שרות",
+    "parentId": "ec3ed8b59f78d5aafcb05a10",
+    "parentName": "מחסנים לגינה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה/ארונות שרות"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה/ארונות שרות"
+  },
+  {
+    "_id": "8cd4a7c408ba9acea760fa0d",
+    "name": {
+      "he": "Garden Top"
+    },
+    "description": {},
+    "slug": "garden-top-6",
+    "parentId": "89c61e97d059c9ec0a756368",
+    "parentName": "ארונות שרות",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה/ארונות שרות/Garden Top"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה/ארונות שרות/Garden Top"
+  },
+  {
+    "_id": "11cfd9830621b7a4a803fa65",
+    "name": {
+      "he": "מחסני עץ"
+    },
+    "description": {},
+    "slug": "מחסני-עץ",
+    "parentId": "ec3ed8b59f78d5aafcb05a10",
+    "parentName": "מחסנים לגינה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה/מחסני עץ"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה/מחסני עץ"
+  },
+  {
+    "_id": "e7380b65767bcbbab971f09a",
+    "name": {
+      "he": "Garden Top"
+    },
+    "description": {},
+    "slug": "garden-top-7",
+    "parentId": "0688ab9b0fa38eb6a8c03356",
+    "parentName": "מחסני גינה מפלסטיק",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה/מחסני גינה מפלסטיק/Garden Top"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה/מחסני גינה מפלסטיק/Garden Top"
+  },
+  {
+    "_id": "61b1ff24b08618bfa0dc8420",
+    "name": {
+      "he": "Tuindeco"
+    },
+    "description": {},
+    "slug": "tuindeco-2",
+    "parentId": "11cfd9830621b7a4a803fa65",
+    "parentName": "מחסני עץ",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה/מחסני עץ/Tuindeco"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה/מחסני עץ/Tuindeco"
+  },
+  {
+    "_id": "38bd773af57384142381b70b",
+    "name": {
+      "he": "Tuindeco"
+    },
+    "description": {},
+    "slug": "tuindeco-3",
+    "parentId": "89c61e97d059c9ec0a756368",
+    "parentName": "ארונות שרות",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מחסנים לגינה/ארונות שרות/Tuindeco"
+    },
+    "sourceKey": "shtibay:category:מחסנים לגינה/ארונות שרות/Tuindeco"
+  },
+  {
+    "_id": "fdca9e2a1e07593c17dba45f",
+    "name": {
+      "he": "ציוד ספורט"
+    },
+    "description": {},
+    "slug": "ציוד-ספורט",
+    "parentId": null,
+    "parentName": null,
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ציוד ספורט"
+    },
+    "sourceKey": "shtibay:category:ציוד ספורט"
+  },
+  {
+    "_id": "34bf637cfa60a944750be51a",
+    "name": {
+      "he": "מתקני כדורסל"
+    },
+    "description": {},
+    "slug": "מתקני-כדורסל",
+    "parentId": "fdca9e2a1e07593c17dba45f",
+    "parentName": "ציוד ספורט",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ציוד ספורט/מתקני כדורסל"
+    },
+    "sourceKey": "shtibay:category:ציוד ספורט/מתקני כדורסל"
+  },
+  {
+    "_id": "adc134747550133ccbf1cb27",
+    "name": {
+      "he": "משקולות ואבזרים"
+    },
+    "description": {},
+    "slug": "משקולות-ואבזרים",
+    "parentId": "fdca9e2a1e07593c17dba45f",
+    "parentName": "ציוד ספורט",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ציוד ספורט/משקולות ואבזרים"
+    },
+    "sourceKey": "shtibay:category:ציוד ספורט/משקולות ואבזרים"
+  },
+  {
+    "_id": "41ec8ba7ee14d1e211341217",
+    "name": {
+      "he": "ספיניג ואירובי"
+    },
+    "description": {},
+    "slug": "ספיניג-ואירובי",
+    "parentId": "fdca9e2a1e07593c17dba45f",
+    "parentName": "ציוד ספורט",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ציוד ספורט/ספיניג ואירובי"
+    },
+    "sourceKey": "shtibay:category:ציוד ספורט/ספיניג ואירובי"
+  },
+  {
+    "_id": "1640afd3425ab3976b24942a",
+    "name": {
+      "he": "איגרוף"
+    },
+    "description": {},
+    "slug": "איגרוף",
+    "parentId": "fdca9e2a1e07593c17dba45f",
+    "parentName": "ציוד ספורט",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ציוד ספורט/איגרוף"
+    },
+    "sourceKey": "shtibay:category:ציוד ספורט/איגרוף"
+  },
+  {
+    "_id": "708c35e781fef49dbb60e2da",
+    "name": {
+      "he": "מתקנים וספות כושר"
+    },
+    "description": {},
+    "slug": "מתקנים-וספות-כושר",
+    "parentId": "fdca9e2a1e07593c17dba45f",
+    "parentName": "ציוד ספורט",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ציוד ספורט/מתקנים וספות כושר"
+    },
+    "sourceKey": "shtibay:category:ציוד ספורט/מתקנים וספות כושר"
+  },
+  {
+    "_id": "0b95a65e59a109a4287589ef",
+    "name": {
+      "he": "הליכונים"
+    },
+    "description": {},
+    "slug": "הליכונים",
+    "parentId": "fdca9e2a1e07593c17dba45f",
+    "parentName": "ציוד ספורט",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ציוד ספורט/הליכונים"
+    },
+    "sourceKey": "shtibay:category:ציוד ספורט/הליכונים"
+  },
+  {
+    "_id": "e81b7333aa595136082e0fc2",
+    "name": {
+      "he": "קמפינג"
+    },
+    "description": {},
+    "slug": "קמפינג",
+    "parentId": null,
+    "parentName": null,
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג"
+    },
+    "sourceKey": "shtibay:category:קמפינג"
+  },
+  {
+    "_id": "fd7c81ac935a6baab57a84b8",
+    "name": {
+      "he": "מחצלות"
+    },
+    "description": {},
+    "slug": "מחצלות",
+    "parentId": "e81b7333aa595136082e0fc2",
+    "parentName": "קמפינג",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג/מחצלות"
+    },
+    "sourceKey": "shtibay:category:קמפינג/מחצלות"
+  },
+  {
+    "_id": "f60db22dfa92ae7af412ce1d",
+    "name": {
+      "he": "פלאיה"
+    },
+    "description": {},
+    "slug": "פלאיה-5",
+    "parentId": "fd7c81ac935a6baab57a84b8",
+    "parentName": "מחצלות",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג/מחצלות/פלאיה"
+    },
+    "sourceKey": "shtibay:category:קמפינג/מחצלות/פלאיה"
+  },
+  {
+    "_id": "288ed0a668744202a643d27a",
+    "name": {
+      "he": "עגלת קמפינג /משא"
+    },
+    "description": {},
+    "slug": "עגלת-קמפינג-משא",
+    "parentId": "e81b7333aa595136082e0fc2",
+    "parentName": "קמפינג",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג/עגלת קמפינג /משא"
+    },
+    "sourceKey": "shtibay:category:קמפינג/עגלת קמפינג /משא"
+  },
+  {
+    "_id": "17d40222dd6a72f703ecc276",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-7",
+    "parentId": "288ed0a668744202a643d27a",
+    "parentName": "עגלת קמפינג /משא",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג/עגלת קמפינג /משא/PLAYA"
+    },
+    "sourceKey": "shtibay:category:קמפינג/עגלת קמפינג /משא/PLAYA"
+  },
+  {
+    "_id": "ef06ca1822d9149f5a7ade5c",
+    "name": {
+      "he": "ציוד נלווה מחנאות"
+    },
+    "description": {},
+    "slug": "ציוד-נלווה-מחנאות",
+    "parentId": "e81b7333aa595136082e0fc2",
+    "parentName": "קמפינג",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג/ציוד נלווה מחנאות"
+    },
+    "sourceKey": "shtibay:category:קמפינג/ציוד נלווה מחנאות"
+  },
+  {
+    "_id": "3916ff283a9319531eb0de3b",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-8",
+    "parentId": "ef06ca1822d9149f5a7ade5c",
+    "parentName": "ציוד נלווה מחנאות",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג/ציוד נלווה מחנאות/PLAYA"
+    },
+    "sourceKey": "shtibay:category:קמפינג/ציוד נלווה מחנאות/PLAYA"
+  },
+  {
+    "_id": "ccd6be740a06a73aef655450",
+    "name": {
+      "he": "אוהלים ושקי שינה"
+    },
+    "description": {},
+    "slug": "אוהלים-ושקי-שינה",
+    "parentId": "e81b7333aa595136082e0fc2",
+    "parentName": "קמפינג",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג/אוהלים ושקי שינה"
+    },
+    "sourceKey": "shtibay:category:קמפינג/אוהלים ושקי שינה"
+  },
+  {
+    "_id": "db6787ef3577c083e5532429",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-9",
+    "parentId": "ccd6be740a06a73aef655450",
+    "parentName": "אוהלים ושקי שינה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג/אוהלים ושקי שינה/PLAYA"
+    },
+    "sourceKey": "shtibay:category:קמפינג/אוהלים ושקי שינה/PLAYA"
+  },
+  {
+    "_id": "0eb1589392ec329d636b15ec",
+    "name": {
+      "he": "כיסאות"
+    },
+    "description": {},
+    "slug": "כיסאות",
+    "parentId": "e81b7333aa595136082e0fc2",
+    "parentName": "קמפינג",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג/כיסאות"
+    },
+    "sourceKey": "shtibay:category:קמפינג/כיסאות"
+  },
+  {
+    "_id": "914670b0baf43ea046a81801",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-10",
+    "parentId": "0eb1589392ec329d636b15ec",
+    "parentName": "כיסאות",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג/כיסאות/PLAYA"
+    },
+    "sourceKey": "shtibay:category:קמפינג/כיסאות/PLAYA"
+  },
+  {
+    "_id": "8652ecca749bf27ec4325c6f",
+    "name": {
+      "he": "שטיבאי"
+    },
+    "description": {},
+    "slug": "שטיבאי-3",
+    "parentId": "288ed0a668744202a643d27a",
+    "parentName": "עגלת קמפינג /משא",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג/עגלת קמפינג /משא/שטיבאי"
+    },
+    "sourceKey": "shtibay:category:קמפינג/עגלת קמפינג /משא/שטיבאי"
+  },
+  {
+    "_id": "067f65cb9b254d86530fcf9a",
+    "name": {
+      "he": "שולחנות פלסטיק"
+    },
+    "description": {},
+    "slug": "שולחנות-פלסטיק",
+    "parentId": "e81b7333aa595136082e0fc2",
+    "parentName": "קמפינג",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג/שולחנות פלסטיק"
+    },
+    "sourceKey": "shtibay:category:קמפינג/שולחנות פלסטיק"
+  },
+  {
+    "_id": "ab6d19bfa7adef63aa8c989e",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-11",
+    "parentId": "067f65cb9b254d86530fcf9a",
+    "parentName": "שולחנות פלסטיק",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג/שולחנות פלסטיק/PLAYA"
+    },
+    "sourceKey": "shtibay:category:קמפינג/שולחנות פלסטיק/PLAYA"
+  },
+  {
+    "_id": "0f92286879e1429f18a1d9e0",
+    "name": {
+      "he": "צידניות"
+    },
+    "description": {},
+    "slug": "צידניות",
+    "parentId": "e81b7333aa595136082e0fc2",
+    "parentName": "קמפינג",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג/צידניות"
+    },
+    "sourceKey": "shtibay:category:קמפינג/צידניות"
+  },
+  {
+    "_id": "5d1fe241147add9ac9e55c6c",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-12",
+    "parentId": "0f92286879e1429f18a1d9e0",
+    "parentName": "צידניות",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג/צידניות/PLAYA"
+    },
+    "sourceKey": "shtibay:category:קמפינג/צידניות/PLAYA"
+  },
+  {
+    "_id": "15348ce5e37952058819aaaf",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-13",
+    "parentId": "fd7c81ac935a6baab57a84b8",
+    "parentName": "מחצלות",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג/מחצלות/PLAYA"
+    },
+    "sourceKey": "shtibay:category:קמפינג/מחצלות/PLAYA"
+  },
+  {
+    "_id": "231998b2f8107b37701cd0bd",
+    "name": {
+      "he": "פלאיה"
+    },
+    "description": {},
+    "slug": "פלאיה-6",
+    "parentId": "288ed0a668744202a643d27a",
+    "parentName": "עגלת קמפינג /משא",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "קמפינג/עגלת קמפינג /משא/פלאיה"
+    },
+    "sourceKey": "shtibay:category:קמפינג/עגלת קמפינג /משא/פלאיה"
+  },
+  {
+    "_id": "0ac945f30a568f3742c3d732",
+    "name": {
+      "he": "פתרונות קירור"
+    },
+    "description": {},
+    "slug": "פתרונות-קירור",
+    "parentId": null,
+    "parentName": null,
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "פתרונות קירור"
+    },
+    "sourceKey": "shtibay:category:פתרונות קירור"
+  },
+  {
+    "_id": "4567d45c5747ad07a37f2f1d",
+    "name": {
+      "he": "מאווררים תעשייתים"
+    },
+    "description": {},
+    "slug": "מאווררים-תעשייתים",
+    "parentId": "0ac945f30a568f3742c3d732",
+    "parentName": "פתרונות קירור",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "פתרונות קירור/מאווררים תעשייתים"
+    },
+    "sourceKey": "shtibay:category:פתרונות קירור/מאווררים תעשייתים"
+  },
+  {
+    "_id": "5d4a1ea55a1e884348036822",
+    "name": {
+      "he": "מצננים"
+    },
+    "description": {},
+    "slug": "מצננים",
+    "parentId": "0ac945f30a568f3742c3d732",
+    "parentName": "פתרונות קירור",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "פתרונות קירור/מצננים"
+    },
+    "sourceKey": "shtibay:category:פתרונות קירור/מצננים"
+  },
+  {
+    "_id": "439c6c87bd17d4f4fa0972c1",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-14",
+    "parentId": "5d4a1ea55a1e884348036822",
+    "parentName": "מצננים",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "פתרונות קירור/מצננים/PLAYA"
+    },
+    "sourceKey": "shtibay:category:פתרונות קירור/מצננים/PLAYA"
+  },
+  {
+    "_id": "6cf9dcd67128f328498be0bb",
+    "name": {
+      "he": "ערסלים"
+    },
+    "description": {},
+    "slug": "ערסלים",
+    "parentId": null,
+    "parentName": null,
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ערסלים"
+    },
+    "sourceKey": "shtibay:category:ערסלים"
+  },
+  {
+    "_id": "f878491d5139de8e9669546f",
+    "name": {
+      "he": "פלאיה"
+    },
+    "description": {},
+    "slug": "פלאיה-7",
+    "parentId": "6cf9dcd67128f328498be0bb",
+    "parentName": "ערסלים",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ערסלים/פלאיה"
+    },
+    "sourceKey": "shtibay:category:ערסלים/פלאיה"
+  },
+  {
+    "_id": "5ac2dbe56d55384ce1834571",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-15",
+    "parentId": "6cf9dcd67128f328498be0bb",
+    "parentName": "ערסלים",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ערסלים/PLAYA"
+    },
+    "sourceKey": "shtibay:category:ערסלים/PLAYA"
+  },
+  {
+    "_id": "0904a41982e280c54e500124",
+    "name": {
+      "he": "הקמת גינה"
+    },
+    "description": {},
+    "slug": "הקמת-גינה",
+    "parentId": null,
+    "parentName": null,
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הקמת גינה"
+    },
+    "sourceKey": "shtibay:category:הקמת גינה"
+  },
+  {
+    "_id": "3de881fdcec633270e4c7ab9",
+    "name": {
+      "he": "חממות"
+    },
+    "description": {},
+    "slug": "חממות",
+    "parentId": "0904a41982e280c54e500124",
+    "parentName": "הקמת גינה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "הקמת גינה/חממות"
+    },
+    "sourceKey": "shtibay:category:הקמת גינה/חממות"
+  },
+  {
+    "_id": "7bf7fe25012f1d6776cec2c4",
+    "name": {
+      "he": "מוצרי ילדים"
+    },
+    "description": {},
+    "slug": "מוצרי-ילדים",
+    "parentId": null,
+    "parentName": null,
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מוצרי ילדים"
+    },
+    "sourceKey": "shtibay:category:מוצרי ילדים"
+  },
+  {
+    "_id": "288245d8cb7d9fd00ebac1b1",
+    "name": {
+      "he": "בתי עץ לילדים"
+    },
+    "description": {},
+    "slug": "בתי-עץ-לילדים",
+    "parentId": "7bf7fe25012f1d6776cec2c4",
+    "parentName": "מוצרי ילדים",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מוצרי ילדים/בתי עץ לילדים"
+    },
+    "sourceKey": "shtibay:category:מוצרי ילדים/בתי עץ לילדים"
+  },
+  {
+    "_id": "74de5ee9b3e2cbdb35909056",
+    "name": {
+      "he": "טרמפולינות"
+    },
+    "description": {},
+    "slug": "טרמפולינות",
+    "parentId": "7bf7fe25012f1d6776cec2c4",
+    "parentName": "מוצרי ילדים",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מוצרי ילדים/טרמפולינות"
+    },
+    "sourceKey": "shtibay:category:מוצרי ילדים/טרמפולינות"
+  },
+  {
+    "_id": "8c5263964da80f504b2d1305",
+    "name": {
+      "he": "Garden Top"
+    },
+    "description": {},
+    "slug": "garden-top-8",
+    "parentId": "288245d8cb7d9fd00ebac1b1",
+    "parentName": "בתי עץ לילדים",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מוצרי ילדים/בתי עץ לילדים/Garden Top"
+    },
+    "sourceKey": "shtibay:category:מוצרי ילדים/בתי עץ לילדים/Garden Top"
+  },
+  {
+    "_id": "d0e4188bbb704d3f14a55426",
+    "name": {
+      "he": "ביגוד והנעלה ילדים"
+    },
+    "description": {},
+    "slug": "ביגוד-והנעלה-ילדים",
+    "parentId": "7bf7fe25012f1d6776cec2c4",
+    "parentName": "מוצרי ילדים",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מוצרי ילדים/ביגוד והנעלה ילדים"
+    },
+    "sourceKey": "shtibay:category:מוצרי ילדים/ביגוד והנעלה ילדים"
+  },
+  {
+    "_id": "10f19cb4e3ac47ece3d2130b",
+    "name": {
+      "he": "BUBU"
+    },
+    "description": {},
+    "slug": "bubu",
+    "parentId": "d0e4188bbb704d3f14a55426",
+    "parentName": "ביגוד והנעלה ילדים",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מוצרי ילדים/ביגוד והנעלה ילדים/BUBU"
+    },
+    "sourceKey": "shtibay:category:מוצרי ילדים/ביגוד והנעלה ילדים/BUBU"
+  },
+  {
+    "_id": "1826761cf1174b20d37150de",
+    "name": {
+      "he": "צעצועים"
+    },
+    "description": {},
+    "slug": "צעצועים",
+    "parentId": "7bf7fe25012f1d6776cec2c4",
+    "parentName": "מוצרי ילדים",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מוצרי ילדים/צעצועים"
+    },
+    "sourceKey": "shtibay:category:מוצרי ילדים/צעצועים"
+  },
+  {
+    "_id": "bf40b900b0ca5d9caa5f8264",
+    "name": {
+      "he": "BUBU"
+    },
+    "description": {},
+    "slug": "bubu-2",
+    "parentId": "1826761cf1174b20d37150de",
+    "parentName": "צעצועים",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מוצרי ילדים/צעצועים/BUBU"
+    },
+    "sourceKey": "shtibay:category:מוצרי ילדים/צעצועים/BUBU"
+  },
+  {
+    "_id": "910617981e78a369cbccb138",
+    "name": {
+      "he": "מתנפחים לילדים"
+    },
+    "description": {},
+    "slug": "מתנפחים-לילדים",
+    "parentId": "7bf7fe25012f1d6776cec2c4",
+    "parentName": "מוצרי ילדים",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "מוצרי ילדים/מתנפחים לילדים"
+    },
+    "sourceKey": "shtibay:category:מוצרי ילדים/מתנפחים לילדים"
+  },
+  {
+    "_id": "cf2429911a988301bf1c04c5",
+    "name": {
+      "he": "שולחן משחק"
+    },
+    "description": {},
+    "slug": "שולחן-משחק",
+    "parentId": null,
+    "parentName": null,
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "שולחן משחק"
+    },
+    "sourceKey": "shtibay:category:שולחן משחק"
+  },
+  {
+    "_id": "51ae1d8d14bfe216a101a634",
+    "name": {
+      "he": "שולחנות הוקי אוויר"
+    },
+    "description": {},
+    "slug": "שולחנות-הוקי-אוויר",
+    "parentId": "cf2429911a988301bf1c04c5",
+    "parentName": "שולחן משחק",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "שולחן משחק/שולחנות הוקי אוויר"
+    },
+    "sourceKey": "shtibay:category:שולחן משחק/שולחנות הוקי אוויר"
+  },
+  {
+    "_id": "11d94378dc72b4620aa0782f",
+    "name": {
+      "he": "ספורט"
+    },
+    "description": {},
+    "slug": "ספורט",
+    "parentId": "51ae1d8d14bfe216a101a634",
+    "parentName": "שולחנות הוקי אוויר",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "שולחן משחק/שולחנות הוקי אוויר/ספורט"
+    },
+    "sourceKey": "shtibay:category:שולחן משחק/שולחנות הוקי אוויר/ספורט"
+  },
+  {
+    "_id": "aa86f15de27fc03bfb396046",
+    "name": {
+      "he": "שולחנות כדורגל"
+    },
+    "description": {},
+    "slug": "שולחנות-כדורגל",
+    "parentId": "cf2429911a988301bf1c04c5",
+    "parentName": "שולחן משחק",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "שולחן משחק/שולחנות כדורגל"
+    },
+    "sourceKey": "shtibay:category:שולחן משחק/שולחנות כדורגל"
+  },
+  {
+    "_id": "63af63ca1bc2a681f6ebcf49",
+    "name": {
+      "he": "שולחנות פינג פונג חוץ"
+    },
+    "description": {},
+    "slug": "שולחנות-פינג-פונג-חוץ",
+    "parentId": "cf2429911a988301bf1c04c5",
+    "parentName": "שולחן משחק",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "שולחן משחק/שולחנות פינג פונג חוץ"
+    },
+    "sourceKey": "shtibay:category:שולחן משחק/שולחנות פינג פונג חוץ"
+  },
+  {
+    "_id": "acaaf9973a392560f9e9e987",
+    "name": {
+      "he": "שולחנות פינג פונג פנים"
+    },
+    "description": {},
+    "slug": "שולחנות-פינג-פונג-פנים",
+    "parentId": "cf2429911a988301bf1c04c5",
+    "parentName": "שולחן משחק",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "שולחן משחק/שולחנות פינג פונג פנים"
+    },
+    "sourceKey": "shtibay:category:שולחן משחק/שולחנות פינג פונג פנים"
+  },
+  {
+    "_id": "229d255433dff6265086cd39",
+    "name": {
+      "he": "שולחנות סנוקר"
+    },
+    "description": {},
+    "slug": "שולחנות-סנוקר",
+    "parentId": "cf2429911a988301bf1c04c5",
+    "parentName": "שולחן משחק",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "שולחן משחק/שולחנות סנוקר"
+    },
+    "sourceKey": "shtibay:category:שולחן משחק/שולחנות סנוקר"
+  },
+  {
+    "_id": "078086efe5d4845df2b713d1",
+    "name": {
+      "he": "ריהוט לבית"
+    },
+    "description": {},
+    "slug": "ריהוט-לבית",
+    "parentId": null,
+    "parentName": null,
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט לבית"
+    },
+    "sourceKey": "shtibay:category:ריהוט לבית"
+  },
+  {
+    "_id": "ceadb774a52156fb9494e82a",
+    "name": {
+      "he": "פחים אלקטרונים"
+    },
+    "description": {},
+    "slug": "פחים-אלקטרונים",
+    "parentId": "078086efe5d4845df2b713d1",
+    "parentName": "ריהוט לבית",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט לבית/פחים אלקטרונים"
+    },
+    "sourceKey": "shtibay:category:ריהוט לבית/פחים אלקטרונים"
+  },
+  {
+    "_id": "1d64331d1db88020bc935ac3",
+    "name": {
+      "he": "ארונות"
+    },
+    "description": {},
+    "slug": "ארונות",
+    "parentId": "078086efe5d4845df2b713d1",
+    "parentName": "ריהוט לבית",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט לבית/ארונות"
+    },
+    "sourceKey": "shtibay:category:ריהוט לבית/ארונות"
+  },
+  {
+    "_id": "de8319f4aa55ec7619fece81",
+    "name": {
+      "he": "עגלות שירות"
+    },
+    "description": {},
+    "slug": "עגלות-שירות",
+    "parentId": "078086efe5d4845df2b713d1",
+    "parentName": "ריהוט לבית",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט לבית/עגלות שירות"
+    },
+    "sourceKey": "shtibay:category:ריהוט לבית/עגלות שירות"
+  },
+  {
+    "_id": "3cd7720bc081e41c00e3707e",
+    "name": {
+      "he": "Garden Top"
+    },
+    "description": {},
+    "slug": "garden-top-9",
+    "parentId": "de8319f4aa55ec7619fece81",
+    "parentName": "עגלות שירות",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט לבית/עגלות שירות/Garden Top"
+    },
+    "sourceKey": "shtibay:category:ריהוט לבית/עגלות שירות/Garden Top"
+  },
+  {
+    "_id": "80654b2c865c6476082bfe0c",
+    "name": {
+      "he": "גאדג'טים"
+    },
+    "description": {},
+    "slug": "גאדגטים",
+    "parentId": "078086efe5d4845df2b713d1",
+    "parentName": "ריהוט לבית",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט לבית/גאדג'טים"
+    },
+    "sourceKey": "shtibay:category:ריהוט לבית/גאדג'טים"
+  },
+  {
+    "_id": "cb79583797314b8866862392",
+    "name": {
+      "he": "InnovaGoods"
+    },
+    "description": {},
+    "slug": "innovagoods",
+    "parentId": "80654b2c865c6476082bfe0c",
+    "parentName": "גאדג'טים",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט לבית/גאדג'טים/InnovaGoods"
+    },
+    "sourceKey": "shtibay:category:ריהוט לבית/גאדג'טים/InnovaGoods"
+  },
+  {
+    "_id": "a58c72dbc9edfe71bc66075b",
+    "name": {
+      "he": "שולחנות וכסאות"
+    },
+    "description": {},
+    "slug": "שולחנות-וכסאות",
+    "parentId": "078086efe5d4845df2b713d1",
+    "parentName": "ריהוט לבית",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט לבית/שולחנות וכסאות"
+    },
+    "sourceKey": "shtibay:category:ריהוט לבית/שולחנות וכסאות"
+  },
+  {
+    "_id": "7a76c70bf4e38d244d2f348d",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-16",
+    "parentId": "a58c72dbc9edfe71bc66075b",
+    "parentName": "שולחנות וכסאות",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט לבית/שולחנות וכסאות/PLAYA"
+    },
+    "sourceKey": "shtibay:category:ריהוט לבית/שולחנות וכסאות/PLAYA"
+  },
+  {
+    "_id": "a58f292c20f10342605e46fd",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-17",
+    "parentId": "80654b2c865c6476082bfe0c",
+    "parentName": "גאדג'טים",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט לבית/גאדג'טים/PLAYA"
+    },
+    "sourceKey": "shtibay:category:ריהוט לבית/גאדג'טים/PLAYA"
+  },
+  {
+    "_id": "2d3d4c41e03e09c674215b6c",
+    "name": {
+      "he": "Garden Top"
+    },
+    "description": {},
+    "slug": "garden-top-10",
+    "parentId": "1d64331d1db88020bc935ac3",
+    "parentName": "ארונות",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט לבית/ארונות/Garden Top"
+    },
+    "sourceKey": "shtibay:category:ריהוט לבית/ארונות/Garden Top"
+  },
+  {
+    "_id": "00c864e2be8d579fc34afeb9",
+    "name": {
+      "he": "כספות"
+    },
+    "description": {},
+    "slug": "כספות",
+    "parentId": "078086efe5d4845df2b713d1",
+    "parentName": "ריהוט לבית",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט לבית/כספות"
+    },
+    "sourceKey": "shtibay:category:ריהוט לבית/כספות"
+  },
+  {
+    "_id": "fdba273014fe33395a4dd2e8",
+    "name": {
+      "he": "SAFE ZONE"
+    },
+    "description": {},
+    "slug": "safe-zone",
+    "parentId": "00c864e2be8d579fc34afeb9",
+    "parentName": "כספות",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט לבית/כספות/SAFE ZONE"
+    },
+    "sourceKey": "shtibay:category:ריהוט לבית/כספות/SAFE ZONE"
+  },
+  {
+    "_id": "87cf7feedceff70276b67ec1",
+    "name": {
+      "he": "ריהוט גן"
+    },
+    "description": {},
+    "slug": "ריהוט-גן",
+    "parentId": null,
+    "parentName": null,
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט גן"
+    },
+    "sourceKey": "shtibay:category:ריהוט גן"
+  },
+  {
+    "_id": "eb23d74e05451d319e9f4c62",
+    "name": {
+      "he": "מערכות ישיבה לגינה"
+    },
+    "description": {},
+    "slug": "מערכות-ישיבה-לגינה",
+    "parentId": "87cf7feedceff70276b67ec1",
+    "parentName": "ריהוט גן",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט גן/מערכות ישיבה לגינה"
+    },
+    "sourceKey": "shtibay:category:ריהוט גן/מערכות ישיבה לגינה"
+  },
+  {
+    "_id": "5c1cc2b40c21995b69624188",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-18",
+    "parentId": "eb23d74e05451d319e9f4c62",
+    "parentName": "מערכות ישיבה לגינה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט גן/מערכות ישיבה לגינה/PLAYA"
+    },
+    "sourceKey": "shtibay:category:ריהוט גן/מערכות ישיבה לגינה/PLAYA"
+  },
+  {
+    "_id": "187840420532f441d579f829",
+    "name": {
+      "he": "פינות אוכל לגינה"
+    },
+    "description": {},
+    "slug": "פינות-אוכל-לגינה",
+    "parentId": "87cf7feedceff70276b67ec1",
+    "parentName": "ריהוט גן",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט גן/פינות אוכל לגינה"
+    },
+    "sourceKey": "shtibay:category:ריהוט גן/פינות אוכל לגינה"
+  },
+  {
+    "_id": "4dcbb47f847d6f4623d25a84",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-19",
+    "parentId": "187840420532f441d579f829",
+    "parentName": "פינות אוכל לגינה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט גן/פינות אוכל לגינה/PLAYA"
+    },
+    "sourceKey": "shtibay:category:ריהוט גן/פינות אוכל לגינה/PLAYA"
+  },
+  {
+    "_id": "3b2c7eb66bd5168ea83b7c48",
+    "name": {
+      "he": "אוהלי PVC"
+    },
+    "description": {},
+    "slug": "אוהלי-pvc",
+    "parentId": "87cf7feedceff70276b67ec1",
+    "parentName": "ריהוט גן",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט גן/אוהלי PVC"
+    },
+    "sourceKey": "shtibay:category:ריהוט גן/אוהלי PVC"
+  },
+  {
+    "_id": "d8b4effee9a98532da041938",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-20",
+    "parentId": "3b2c7eb66bd5168ea83b7c48",
+    "parentName": "אוהלי PVC",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט גן/אוהלי PVC/PLAYA"
+    },
+    "sourceKey": "shtibay:category:ריהוט גן/אוהלי PVC/PLAYA"
+  },
+  {
+    "_id": "1968fa6e349b69ade3a4d2c7",
+    "name": {
+      "he": "מיטות שמש/שיזוף"
+    },
+    "description": {},
+    "slug": "מיטות-שמששיזוף",
+    "parentId": "87cf7feedceff70276b67ec1",
+    "parentName": "ריהוט גן",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט גן/מיטות שמש/שיזוף"
+    },
+    "sourceKey": "shtibay:category:ריהוט גן/מיטות שמש/שיזוף"
+  },
+  {
+    "_id": "3f4fd88072e9a16d80d6692b",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-21",
+    "parentId": "1968fa6e349b69ade3a4d2c7",
+    "parentName": "מיטות שמש/שיזוף",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט גן/מיטות שמש/שיזוף/PLAYA"
+    },
+    "sourceKey": "shtibay:category:ריהוט גן/מיטות שמש/שיזוף/PLAYA"
+  },
+  {
+    "_id": "f4bd4f373f2112ef8b5044bc",
+    "name": {
+      "he": "Garden Top"
+    },
+    "description": {},
+    "slug": "garden-top-11",
+    "parentId": "eb23d74e05451d319e9f4c62",
+    "parentName": "מערכות ישיבה לגינה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט גן/מערכות ישיבה לגינה/Garden Top"
+    },
+    "sourceKey": "shtibay:category:ריהוט גן/מערכות ישיבה לגינה/Garden Top"
+  },
+  {
+    "_id": "3b4d2caa5a75c5912716ebe6",
+    "name": {
+      "he": "Tuindeco"
+    },
+    "description": {},
+    "slug": "tuindeco-4",
+    "parentId": "eb23d74e05451d319e9f4c62",
+    "parentName": "מערכות ישיבה לגינה",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ריהוט גן/מערכות ישיבה לגינה/Tuindeco"
+    },
+    "sourceKey": "shtibay:category:ריהוט גן/מערכות ישיבה לגינה/Tuindeco"
+  },
+  {
+    "_id": "26ce659cc74f186bc0073dbf",
+    "name": {
+      "he": "פתרונות חימום"
+    },
+    "description": {},
+    "slug": "פתרונות-חימום",
+    "parentId": null,
+    "parentName": null,
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "פתרונות חימום"
+    },
+    "sourceKey": "shtibay:category:פתרונות חימום"
+  },
+  {
+    "_id": "cf16e347060b0418a6c69f92",
+    "name": {
+      "he": "השכרת חימום לאירועים"
+    },
+    "description": {},
+    "slug": "השכרת-חימום-לאירועים",
+    "parentId": "26ce659cc74f186bc0073dbf",
+    "parentName": "פתרונות חימום",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "פתרונות חימום/השכרת חימום לאירועים"
+    },
+    "sourceKey": "shtibay:category:פתרונות חימום/השכרת חימום לאירועים"
+  },
+  {
+    "_id": "90c78386ebb62c28ca297259",
+    "name": {
+      "he": "תנור חימום אינפרא אדום"
+    },
+    "description": {},
+    "slug": "תנור-חימום-אינפרא-אדום",
+    "parentId": "26ce659cc74f186bc0073dbf",
+    "parentName": "פתרונות חימום",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "פתרונות חימום/תנור חימום אינפרא אדום"
+    },
+    "sourceKey": "shtibay:category:פתרונות חימום/תנור חימום אינפרא אדום"
+  },
+  {
+    "_id": "69310de8f79ab07ceaafcffd",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-22",
+    "parentId": "90c78386ebb62c28ca297259",
+    "parentName": "תנור חימום אינפרא אדום",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "פתרונות חימום/תנור חימום אינפרא אדום/PLAYA"
+    },
+    "sourceKey": "shtibay:category:פתרונות חימום/תנור חימום אינפרא אדום/PLAYA"
+  },
+  {
+    "_id": "e8074fc6db840987a28e99eb",
+    "name": {
+      "he": "פטריות חימום"
+    },
+    "description": {},
+    "slug": "פטריות-חימום",
+    "parentId": "26ce659cc74f186bc0073dbf",
+    "parentName": "פתרונות חימום",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "פתרונות חימום/פטריות חימום"
+    },
+    "sourceKey": "shtibay:category:פתרונות חימום/פטריות חימום"
+  },
+  {
+    "_id": "bed8e4ced4aa9b6bc739c1ba",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-23",
+    "parentId": "e8074fc6db840987a28e99eb",
+    "parentName": "פטריות חימום",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "פתרונות חימום/פטריות חימום/PLAYA"
+    },
+    "sourceKey": "shtibay:category:פתרונות חימום/פטריות חימום/PLAYA"
+  },
+  {
+    "_id": "f13993e73800a7dfb5d7b243",
+    "name": {
+      "he": "גגונים"
+    },
+    "description": {},
+    "slug": "גגונים",
+    "parentId": null,
+    "parentName": null,
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "גגונים"
+    },
+    "sourceKey": "shtibay:category:גגונים"
+  },
+  {
+    "_id": "c6b774a6563f763852ace709",
+    "name": {
+      "he": "Garden Top"
+    },
+    "description": {},
+    "slug": "garden-top-12",
+    "parentId": "f13993e73800a7dfb5d7b243",
+    "parentName": "גגונים",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "גגונים/Garden Top"
+    },
+    "sourceKey": "shtibay:category:גגונים/Garden Top"
+  },
+  {
+    "_id": "c83ec595b67c4bfcf32541c9",
+    "name": {
+      "he": "חבילות מוצרים"
+    },
+    "description": {},
+    "slug": "חבילות-מוצרים",
+    "parentId": null,
+    "parentName": null,
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "חבילות מוצרים"
+    },
+    "sourceKey": "shtibay:category:חבילות מוצרים"
+  },
+  {
+    "_id": "60b2cfbaa7c0ac7e04629efb",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-24",
+    "parentId": "c83ec595b67c4bfcf32541c9",
+    "parentName": "חבילות מוצרים",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "חבילות מוצרים/PLAYA"
+    },
+    "sourceKey": "shtibay:category:חבילות מוצרים/PLAYA"
+  },
+  {
+    "_id": "2a711fc7c4819e4da34efb2f",
+    "name": {
+      "he": "ערסלים ונדנדות"
+    },
+    "description": {},
+    "slug": "ערסלים-ונדנדות",
+    "parentId": null,
+    "parentName": null,
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ערסלים ונדנדות"
+    },
+    "sourceKey": "shtibay:category:ערסלים ונדנדות"
+  },
+  {
+    "_id": "8e0fcf78121eafb4a0c316f9",
+    "name": {
+      "he": "PLAYA"
+    },
+    "description": {},
+    "slug": "playa-25",
+    "parentId": "2a711fc7c4819e4da34efb2f",
+    "parentName": "ערסלים ונדנדות",
+    "status": "show",
+    "sortOrder": 0,
+    "source": {
+      "site": "shtibay",
+      "path": "ערסלים ונדנדות/PLAYA"
+    },
+    "sourceKey": "shtibay:category:ערסלים ונדנדות/PLAYA"
+  }
+]

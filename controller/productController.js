@@ -1265,7 +1265,11 @@ const getShowingStoreProducts = async (req, res) => {
         });
 
         if (foundCategories.length > 0) {
-          categoryIds = foundCategories.map(cat => cat._id); // אם מצאנו קטגוריות, נשתמש ב-ObjectIds שלהן
+          const parentIds = foundCategories.map(cat => cat._id);
+          const childCategories = await Category.find({
+            parentId: { $in: parentIds.map(String) }
+          }).lean();
+          categoryIds = [...parentIds, ...childCategories.map(cat => cat._id)];
         } else {
           // אם לא מצאנו קטגוריה לפי הslug, להחזיר מוצרים ריקים
           return res.send({

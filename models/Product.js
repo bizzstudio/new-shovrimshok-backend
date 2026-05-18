@@ -9,7 +9,13 @@ const productSchema = new mongoose.Schema(
       required: false,
     },
 
-    // מק"ט (ברקוד)
+    // מק"ט / SKU — חייב להיות ייחודי בקולקציה (אינדקס unique קיים ב-DB)
+    sku: {
+      type: String,
+      required: false,
+    },
+
+    // ברקוד
     barcode: {
       type: String,
       required: false,
@@ -194,6 +200,31 @@ const productSchema = new mongoose.Schema(
       default: "show",
       enum: ["show", "hide"],
     },
+
+    // מקור ייבוא חיצוני
+    source: {
+      site:       { type: String, required: false },
+      externalId: { type: String, required: false },
+      url:        { type: String, required: false },
+    },
+
+    // מפתח ייחודי יציב לזיהוי חוצה-הרצות (לדוגמה: "shtibay:product:1118240")
+    sourceKey: {
+      type:     String,
+      required: false,
+      unique:   true,
+      index:    true,
+      sparse:   true,
+    },
+
+    // נתונים נוספים ממקור חיצוני שאינם חלק מהסכמה הראשית
+    extraData: { type: mongoose.Schema.Types.Mixed, required: false },
+
+    // המוצר המקורי כפי שהגיע מהמקור
+    rawData: { type: mongoose.Schema.Types.Mixed, required: false },
+
+    // מידע על סנכרון וייבוא
+    sync: { type: mongoose.Schema.Types.Mixed, required: false },
   },
   {
     timestamps: true,

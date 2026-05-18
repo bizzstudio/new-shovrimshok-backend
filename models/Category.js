@@ -49,6 +49,17 @@ const categorySchema = new mongoose.Schema(
       type: Number,
       default: 0,
     },
+    source: {
+      site: { type: String, required: false },
+      path: { type: String, required: false },
+    },
+    sourceKey: {
+      type:     String,
+      required: false,
+      unique:   true,
+      index:    true,
+      sparse:   true,
+    },
   },
   {
     timestamps: true,
