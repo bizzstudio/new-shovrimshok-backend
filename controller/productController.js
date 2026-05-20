@@ -1236,6 +1236,9 @@ const getShowingStoreProducts = async (req, res) => {
     queryObject.isWarehouseProduct = { $ne: true };
 
     const { category, title, slug, sku } = req.query;
+    const page = Math.max(parseInt(req.query.page, 10) || 1, 1);
+    const limit = Math.min(Math.max(parseInt(req.query.limit, 10) || 36, 1), 100);
+    const skip = (page - 1) * limit;
 
     queryObject.status = "show";
 
@@ -1335,6 +1338,7 @@ const getShowingStoreProducts = async (req, res) => {
     let productsWithOffers = [];
     let relatedProducts = [];
     let allPermittedProductsForFallback = [];
+    let totalDoc = 0;
 
     if (slug) {
       products = await Product.find(queryObject)
@@ -1363,7 +1367,9 @@ const getShowingStoreProducts = async (req, res) => {
         .populate({ path: "categories", select: "name _id slug" })
         .populate({ path: "prices.priceList" })
         .sort({ _id: -1 })
-        .limit(100);
+        .skip(skip)
+        .limit(limit);
+      totalDoc = await Product.countDocuments(queryObject);
     } else {
       if (permittedBarcodes) {
         allPermittedProductsForFallback = await Product.find({
@@ -1568,13 +1574,15 @@ const getShowingStoreProducts = async (req, res) => {
 
     const mapP = (p) => sanitizeStoreProductForRequest(p, req);
     const mapList = (arr) => (Array.isArray(arr) ? arr.map(mapP).filter(Boolean) : []);
+    const productsList = mapList(products);
     res.send({
-      products: mapList(products),
+      products: productsList,
       popularProducts: mapList(popularProducts),
       relatedProducts: mapList(relatedProducts),
       discountedProducts: mapList(discountedProducts),
       recentProducts: mapList(recentProducts),
       productsWithOffers: mapList(productsWithOffers),
+      totalDoc: totalDoc || productsList.length,
     });
   } catch (err) {
     console.log('getShowingStoreProducts error: ', err);
