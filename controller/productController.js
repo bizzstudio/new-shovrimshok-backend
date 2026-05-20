@@ -28,14 +28,9 @@ const sanitizeStoreProduct = (product) => {
 const compareStoreProductTitleHe = (a, b) =>
   String(a?.title?.he ?? "").localeCompare(String(b?.title?.he ?? ""), "he");
 
-/** אורחים לא מקבלים מחירים ב-API (הפרונט מסתיר גם כן) */
 const sanitizeStoreProductForRequest = (product, req) => {
   if (!product) return null;
-  const safe = sanitizeStoreProduct(product);
-  if (safe && !req.user?._id) {
-    safe.prices = [];
-  }
-  return safe;
+  return sanitizeStoreProduct(product);
 };
 
 const getPermittedBarcodeSet = async (userId) => {

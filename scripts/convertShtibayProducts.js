@@ -53,6 +53,18 @@ function cleanProductTitle(name) {
   return name.replace(/\s*[|｜–—-]\s*שטיבאי\s*$/u, "").trim();
 }
 
+// Title source: prefer the last breadcrumb label (the product page in the
+// site's own navigation — clean, no "| שטיבאי" suffix). Fall back to the
+// cleaned `name` field when the source has no breadcrumb.
+function pickProductTitle(product) {
+  const breadcrumb = product?.breadcrumb;
+  if (Array.isArray(breadcrumb) && breadcrumb.length > 0) {
+    const label = breadcrumb[breadcrumb.length - 1]?.label;
+    if (typeof label === "string" && label.trim()) return label.trim();
+  }
+  return cleanProductTitle(product?.name);
+}
+
 // ---------------------------------------------------------------------------
 // Helper — strip HTML to readable plain text
 // ---------------------------------------------------------------------------
@@ -321,8 +333,9 @@ function convertShtibayProductToSystemProduct(
   // Price
   const priceValue = isMissingPrice(product.price) ? 0 : Number(product.price);
 
-  // Title — strip site-suffix for display; keep original in rawData
-  const cleanTitle = cleanProductTitle(product.name);
+  // Title — prefer breadcrumb leaf (clean product page name), fall back to
+  // cleaned `name`. Original `name` is preserved in rawData.
+  const cleanTitle = pickProductTitle(product);
 
   // Description fields
   const descriptionHtml = product.long_description_html || "";
