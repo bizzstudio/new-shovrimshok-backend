@@ -54,7 +54,7 @@ app.use(express.urlencoded({ extended: true }));
 
 // root route
 app.get("/", (req, res) => {
-  res.send("mnm-backend works properly! 29-12-2025 17:28");
+  res.send("shovrimshok-backend works properly! 29-12-2025 17:28");
 });
 
 // Route for uploading images to S3

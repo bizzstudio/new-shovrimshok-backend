@@ -52,8 +52,8 @@ const sendLoginOtpEmail = async (to, code) => {
   await sendEmailSilent({
     from: `"${process.env.COMPANY_NAME}" <${process.env.EMAIL_USER}>`,
     to,
-    subject: "קוד האימות שלך למערכת MNM יבוא שיווק והפצה",
-    html: generateOtpEmailHtml(code, "MNM יבוא שיווק והפצה"),
+    subject: "קוד האימות שלך למערכת שוברים שוק",
+    html: generateOtpEmailHtml(code, "שוברים שוק"),
   });
 };
 
@@ -148,7 +148,7 @@ const forgetPassword = async (req, res) => {
       to: `${req.body.verifyEmail}`,
       subject: "Password Reset",
       html: `<h2>Hello ${req.body.verifyEmail}</h2>
-      <p>A request has been received to change the password for your <strong>MNM יבוא שיווק והפצה</strong> account </p>
+      <p>A request has been received to change the password for your <strong>שוברים שוק</strong> account </p>
 
         <p>This link will expire in <strong> 15 minute</strong>.</p>
 
@@ -160,7 +160,7 @@ const forgetPassword = async (req, res) => {
         <p style="margin-top: 35px;">If you did not initiate this request, please contact us immediately at ${process.env.EMAIL_USER}</p>
 
         <p style="margin-bottom:0px;">Thank you</p>
-        <strong>MNM יבוא שיווק והפצה Team</strong>
+        <strong>שוברים שוק Team</strong>
              `,
     };
     const message = "Please check your email to reset password!";

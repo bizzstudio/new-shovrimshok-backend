@@ -721,7 +721,7 @@ const sendOrderReadyEmail = async (req, res) => {
     const subject = `הזמנה נלקטה — חשבונית ${orderInvoice != null ? orderInvoice : ""}`;
 
     await sendEmailSilent({
-      from: `"${process.env.COMPANY_NAME || "MNM"}" <${process.env.EMAIL_USER}>`,
+      from: `"${process.env.COMPANY_NAME || "שוברים שוק"}" <${process.env.EMAIL_USER}>`,
       to: recipient,
       subject,
       html,

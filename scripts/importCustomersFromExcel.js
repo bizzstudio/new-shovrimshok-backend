@@ -1,6 +1,6 @@
 /**
  * Import customers + main customers from Excel:
- * data/לקוחות לאתר MNM.xlsx
+ * data/לקוחות לאתר שוברים שוק.xlsx
  *
  * DRY RUN:
  *   node scripts/importCustomersFromExcel.js
@@ -24,7 +24,7 @@ const MainCustomer = require("../models/MainCustomer");
 const Customer = require("../models/Customer");
 
 // ===== Config =====
-const EXCEL_PATH = path.join(__dirname, "..", "data", "לקוחות לאתר MNM.xlsx");
+const EXCEL_PATH = path.join(__dirname, "..", "data", "לקוחות לאתר שוברים שוק.xlsx");
 const DEFAULT_PRICE_LIST_ID = new mongoose.Types.ObjectId("694416d8a8b6644bf9fb7254");
 const DEFAULT_PAYMENT_TERMS = "+15";
 const COMMIT = process.argv.includes("--commit");
@@ -121,7 +121,7 @@ function buildSyntheticEmail(rivhitIdMaybe, nameMaybe) {
         .replace(/[^a-zA-Z0-9\u0590-\u05FF\-_.]/g, "")
         .slice(0, 40);
     const extra = safeName ? `-${safeName}` : "";
-    return `no-email+${idPart}${extra}@mnm.local`.toLowerCase();
+    return `no-email+${idPart}${extra}@shovrimshok.local`.toLowerCase();
 }
 
 // ===== Excel parsing =====

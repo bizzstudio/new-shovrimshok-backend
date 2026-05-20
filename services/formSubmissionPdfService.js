@@ -244,7 +244,7 @@ function drawTableGrid(doc, x, y, colWidths, rowHeights) {
 function drawFormalFormHeader(doc, fontName, margin, pageW, y, opts) {
   const { mainTitle, formCode, extraLine } = opts;
   const companyLine =
-    process.env.COMPANY_FORM_PDF_LINE || "MNM יבוא שיווק והפצה — מחסן / אבטחת איכות";
+    process.env.COMPANY_FORM_PDF_LINE || "שוברים שוק — מחסן / אבטחת איכות";
 
   const leftW = pageW * 0.3;
   const centerW = pageW * 0.4;
